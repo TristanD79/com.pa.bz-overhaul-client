@@ -1,0 +1,66 @@
+.ccaui .div_pip_toggle_cont {
+  border: 1px solid rgba(255, 0, 0, 0.8) !important;
+}
+
+.nsdfui .div_pip_toggle_cont {
+  border: 1px solid rgba(0, 0, 158, 0.5) !important;
+}
+
+.ccaui .div_ingame_timer {
+  color: rgba(255, 0, 0, 0.8);
+  text-shadow: 0 0 30px rgba(255, 0, 0, 0.8);
+}
+
+.nsdfui .div_ingame_timer {
+  color: rgb(51, 53, 153);
+  text-shadow: 0 0 30px rgba(0, 0, 158, 0.5);
+}
+
+.ccaui .div_ingame_server_rate {
+  color: rgba(255, 0, 0, 0.8);
+  text-shadow: 0 0 30px rgba(255, 0, 0, 0.8);
+}
+
+.nsdfui .div_ingame_server_rate {
+  color: rgb(51, 53, 153);
+  text-shadow: 0 0 30px rgba(0, 0, 158, 0.5);
+}
+
+.ccaui .btn_std_ix:hover {
+  background: rgba(255, 0, 0, 0.8);
+  border: 1px solid rgba(158, 0, 0, 0.5) !important;
+  box-shadow: 0 0 10px rgba(255, 0, 0, 0.8) !important;
+}
+
+.nsdfui .btn_std_ix:hover {
+  color: rgb(51, 53, 153);
+  text-shadow: 0 0 10px rgba(0, 0, 158, 0.5);
+}
+
+.ccaui .tooltip-inner {
+  box-shadow: 0 0 20px rgba(255, 0, 0, 0.5) !important;
+}
+
+.nsdfui .tooltip-inner {
+  box-shadow: 0 0 20px rgba(0, 0, 158, 0.5) !important;
+}
+
+.ccaui .div_sim_speed {
+  color: rgba(255, 0, 0, 0.8) !important;
+  text-shadow: 0 0 30px rgba(255, 0, 0, 0.8) !important;
+}
+
+.nsdfui .div_sim_speed {
+  color: rgb(51, 53, 153) !important;
+  text-shadow: 0 0 30px rgba(0, 0, 158, 0.5);
+}
+
+.ccaui .span_tooltip_hotkey {
+  border: 1px solid rgba(255, 0, 0, 1) !important;
+  color: rgba(255, 0, 0, 1) !important;
+}
+
+.nsdfui .span_tooltip_hotkey {
+  border: 1px solid rgba(0, 0, 158, 0.5) !important;
+  color: rgb(51, 53, 153) !important;
+}

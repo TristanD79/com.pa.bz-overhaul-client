@@ -1,0 +1,7 @@
+.ccaui .tooltip-inner {
+  box-shadow: 0 0 20px rgba(255, 0, 0, 0.5) !important;
+}
+
+.nsdfui .tooltip-inner {
+  box-shadow: 0 0 20px rgba(0, 0, 158, 0.5) !important;
+}

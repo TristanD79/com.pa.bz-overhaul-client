@@ -1,0 +1,103 @@
+.ccaui .div_group_select .bground {
+  border: 1px solid #4d4545;
+  box-shadow: 0 0 10px rgba(158, 0, 0, 0.5);
+  background: linear-gradient(to top, #4d4545 0%, #000 100%);
+}
+
+.nsdfui .div_group_select .bground {
+  border: 1px solid rgb(7, 0, 102);
+  box-shadow: 0 0 10px rgba(0, 0, 255, 0.5);
+  background: linear-gradient(to top, #45484d 0%, #000 100%);
+}
+
+.unit_group_item .total {
+  flex-grow: 1;
+  color: #000;
+}
+
+.ccaui .unit_group_menu {
+  background: #970000;
+  border: 1px solid #970030;
+  box-shadow: 0 0 20px #000;
+}
+
+.nsdfui .unit_group_menu {
+  background: rgb(7, 0, 102);
+  border: 1px solid rgb(51, 53, 153);
+  box-shadow: 0 0 20px #000;
+}
+
+.ccaui .unit_group_menu .item {
+  color: rgba(255, 0, 0, 0.8) !important;
+  border: 1px solid #970000;
+}
+
+.nsdfui .unit_group_menu .item {
+  color: rgb(51, 53, 153) !important;
+  border: 1px solid rgb(7, 0, 102);
+}
+
+.ccaui .unit_group_item {
+  border: 1px solid rgba(158, 0, 0, 1);
+  color: #fff;
+  box-shadow: 0 0 10px #000;
+}
+
+.nsdfui .unit_group_item {
+  border: 1px solid rgb(7, 0, 102);
+  color: #fff;
+  box-shadow: 0 0 10px #000;
+}
+
+.ccaui .unit_group_item.disabled {
+  border: 1px solid #2b2b2b;
+}
+
+.nsdfui .unit_group_item.disabled {
+  border: 1px solid #2b2b2b;
+}
+
+.ccaui .unit_group_item .numkey {
+  color: #970000;
+  text-shadow: none;
+  background: black;
+  border: 1px solid #4d0000;
+}
+
+.nsdfui .unit_group_item .numkey {
+  color: rgb(7, 0, 102);
+  background: black;
+  text-shadow: none;
+  border: 1px solid rgb(7, 0, 102);
+}
+
+.ccaui .active {
+  background: rgba(130, 0, 0, 1) !important;
+  border: 1px solid #910000 !important;
+}
+
+.nsdfui .active {
+  background: rgba(0, 0, 255, 0.5) !important;
+  border: 1px solid rgb(7, 0, 102) !important;
+}
+
+.ccaui .btn_std_ix:hover {
+  box-shadow: inset 0 0 10px #970000 !important;
+  background: rgba(255, 0, 0, 0.8);
+  border: 1px solid rgba(158, 0, 0, 0.5) !important;
+}
+
+.nsdfui .btn_std_ix:hover {
+  box-shadow: inset 0 0 10px rgb(7, 0, 102) !important;
+  background: rgb(51, 53, 153);
+  background: rgb(7, 0, 102);
+  border: 1px solid rgba(0, 0, 255, 0.5) !important;
+}
+
+.ccaui .tooltip-inner {
+  box-shadow: 0 0 20px rgba(255, 0, 0, 0.5) !important;
+}
+
+.nsdfui .tooltip-inner {
+  box-shadow: 0 0 20px rgba(0, 0, 255, 0.5) !important;
+}

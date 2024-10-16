@@ -1,0 +1,93 @@
+/* BZ Menu */
+
+body.bz #background {
+  background-image: url("coui://ui/mods/com.pa.bz-overhaul/backgrounds/bz_menu.png");
+}
+
+body.bz #logo-background {
+  background-image: url("");
+}
+
+body.bz {
+  background-image: url("coui://ui/mods/com.pa.bz-overhaul/img/splash.png");
+}
+
+.bz .nav_sub_item {
+  border: 0 !important;
+}
+
+.bz .secondary_bar {
+  background: rgba(0, 0, 0, 0.15) !important;
+}
+
+.bz #start_column {
+  background: rgba(0, 0, 0, 0.15) !important;
+}
+
+.bz .full_update {
+  background: linear-gradient(
+    to top,
+    rgba(0, 50, 0, 0.8) 0%,
+    rgba(0, 60, 0, 1) 85%
+  ) !important;
+  border: 1px solid rgba(0, 255, 0, 0.2) !important;
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.7) !important;
+  color: white;
+}
+
+.bz .ytv-list a {
+  color: white;
+}
+
+.bz .ytv-views {
+  color: rgb(180, 180, 180);
+  opacity: 1;
+}
+
+.bz .username {
+  text-shadow: 0 0 20px rgba(0, 70, 0, 0.9) !important;
+}
+
+.bz .update_title {
+  color: white !important;
+}
+
+.bz .copyright {
+  color: white;
+}
+
+.bz .div_kickstarter_watermark {
+  background: url("coui://ui/main/game/start/img/img_kickstarter_logo_hover.png")
+    top center no-repeat !important;
+  background-size: 32px 32px;
+}
+
+.bz .div_uber_watermark {
+  background: url("coui://ui/main/game/start/img/img_uber_logo_hover.png") top
+    center no-repeat !important;
+  background-size: 44px 44px;
+}
+
+.bz .div_kickstarter_watermark:hover {
+  background: url("coui://ui/main/game/start/img/img_kickstarter_logo_rest.png")
+    top center no-repeat !important;
+  background-size: 32px 32px;
+}
+
+.bz .div_uber_watermark:hover {
+  background: url("coui://ui/main/game/start/img/img_uber_logo_rest.png") top
+    center no-repeat !important;
+  background-size: 32px 44px;
+}
+
+.bz .input_text {
+  background: rgba(0, 70, 0, 1) !important;
+  border: 1px solid rgba(0, 158, 0, 0.1) !important;
+}
+
+.bz .tooltip-inner {
+  max-width: 190px !important;
+  padding: 6px 8px;
+  background-color: rgba(0, 70, 0, 1) !important;
+  box-shadow: 0 0 25px rgba(0, 255, 0, 0.7) !important;
+}

@@ -1,0 +1,14 @@
+.player_masked.nsdfcom {
+  -webkit-mask-image: url("coui://ui/mods/com.pa.bz-overhaul/img/icon_nsdf_player_fill.png") !important;
+}
+
+.player_masked.ccacom {
+  -webkit-mask-image: url("coui://ui/mods/com.pa.bz-overhaul/img/icon_cca_player_fill.png") !important;
+}
+
+.player_masked.mixcom {
+  -webkit-mask-image: url("coui://ui/mods/com.pa.bz-overhaul/img/icon_nsdf_cca_player_fill.png") !important;
+}
+
+
+    

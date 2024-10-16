@@ -1,0 +1,28 @@
+/* BZ */
+.bz .content_titans_badge {
+  height: 0%;
+}
+
+.bz .section_title {
+  text-shadow: 0 0 20px rgba(0, 190, 0, 0.9) !important;
+}
+
+.bz .section_title .content .title {
+  text-shadow: 0 0 20px rgba(0, 190, 0, 0.9) !important;
+}
+
+.bz .body {
+  color: white !important;
+}
+
+.bz label {
+  color: white;
+}
+
+.bz label:hover {
+  color: white;
+}
+
+.bz label:active {
+  color: white;
+}

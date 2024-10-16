@@ -1,0 +1,72 @@
+{
+    "context": "client",
+    "identifier": "com.pa.bz-overhaul-client",
+    "display_name": "Battlezone: RTS Tactics Client",
+    "description": "A full conversion mod that brings both factions from Battlezone to PA.",
+    "author": "Tristan",
+    "version": "0.5",
+    "build": "116982",
+    "date": "2024-02-21",
+    "signature": "not yet implemented",
+    "forum": "",
+    "icon": "https://static.wikia.nocookie.net/battlezone/images/7/79/BDog_Poster.gif",
+    "priority": 100,
+    "category": [
+        "titans",
+        "units",
+        "faction"
+    ],
+    "dependencies": [
+        "com.pa.bz-overhaul-server"
+    ],
+    "scenes": {
+        "start": [
+            "coui://ui/mods/com.pa.bz-overhaul/start/start.js"
+        ],
+        "new_game": [
+            "coui://ui/mods/com.pa.bz-overhaul/new_game.js"
+        ],
+        "system_editor": [
+            "coui://ui/mods/com.pa.bz-overhaul/system_editor.js"
+        ],
+        "live_game_action_bar": [
+            "coui://ui/mods/com.pa.bz-overhaul/live_game_action_bar.js"
+        ],
+        "live_game_build_bar": [
+            "coui://ui/mods/com.pa.bz-overhaul/live_game_build_bar.js"
+        ],
+        "live_game_build_hover": [
+            "coui://ui/mods/com.pa.bz-overhaul/live_game_build_hover.js"
+        ],
+        "live_game_control_group_bar": [
+            "coui://ui/mods/com.pa.bz-overhaul/live_game_control_group_bar.js"
+        ],
+        "live_game_econ": [
+            "coui://ui/mods/com.pa.bz-overhaul/live_game_econ.js"
+        ],
+        "live_game_menu": [
+            "coui://ui/mods/com.pa.bz-overhaul/live_game_menu.js"
+        ],
+        "live_game_options_bar": [
+            "coui://ui/mods/com.pa.bz-overhaul/live_game_options_bar.js"
+        ],
+        "live_game_players": [
+            "coui://ui/mods/com.pa.bz-overhaul/live_game_players.js"
+        ],
+        "live_game_selection": [
+            "coui://ui/mods/com.pa.bz-overhaul/live_game_selection.js"
+        ],
+        "live_game_planets": [
+            "coui://ui/mods/com.pa.bz-overhaul/live_game_planets.js"
+        ],
+        "live_game_time_bar": [
+            "coui://ui/mods/com.pa.bz-overhaul/live_game_time_bar.js"
+        ],
+        "icon_atlas": [
+			"coui://ui/mods/com.pa.bz-overhaul/icon_atlas.js"
+		],
+        "load_planet": [
+            "coui://ui/mods/com.pa.bz-overhaul/bz_maps.js"
+        ]
+    }
+}

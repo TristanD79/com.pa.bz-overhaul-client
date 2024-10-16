@@ -1,0 +1,203 @@
+/* BZ */
+/* btn_std_ix */
+.bz .btn_std_ix {
+  background: rgba(0, 70, 0, 1) !important;
+  border: 1px solid rgba(0, 255, 0, 0.2) !important;
+  box-shadow: inset 0 0 8px rgba(0, 255, 0, 0.1) !important;
+  text-shadow: 0 0 15px rgba(0, 255, 0, 0.5) !important;
+  color: white !important;
+}
+
+.bz .btn_std_ix:hover {
+  background: rgba(0, 255, 0, 0.7) !important;
+  border: 1px solid rgba(0, 158, 0, 0.1) !important;
+  box-shadow: 0 0 10px rgba(0, 255, 0, 0.5) !important;
+}
+
+.bz .btn_std_ix:active {
+  background: rgba(0, 255, 0, 0.85) !important;
+  border: 1px solid rgba(0, 158, 0, 0.1) !important;
+  box-shadow: 0 0 10px rgba(0, 255, 0, 0.85) !important;
+}
+
+/* button */
+.bz button {
+  background: rgba(0, 70, 0, 1) !important;
+  border: 1px solid rgba(0, 255, 0, 0.2) !important;
+  box-shadow: inset 0 0 8px rgba(0, 255, 0, 0.1) !important;
+  color: white !important;
+}
+
+.bz button:hover {
+  background: rgba(0, 255, 0, 0.8) !important;
+  border: 1px solid rgba(0, 158, 0, 0.1) !important;
+  box-shadow: 0 0 10px rgba(0, 255, 0, 0.5) !important;
+}
+
+/* dropdown menus and nav pills */
+.bz .dropdown-menu .text {
+  text-shadow: 0 0 15px rgba(0, 255, 0, 0.5) !important;
+}
+
+.bz .dropdown-menu {
+  background: rgba(0, 70, 0, 1) !important;
+  border: 1px solid rgba(0, 255, 0, 0.2) !important;
+}
+
+.bz .nav-pills > li > a {
+  text-shadow: 0 0 15px rgba(0, 255, 0, 0.6) !important;
+}
+
+.bz .nav-pills > li > a:hover {
+  text-shadow: 0 0 15px rgba(0, 255, 0, 1) !important;
+}
+
+.bz .dropdown-menu > li > a:hover {
+  background: rgba(0, 255, 0, 0.85) !important;
+  border: 1px solid rgba(0, 158, 0, 0.1) !important;
+  box-shadow: 0 0 10px rgba(0, 255, 0, 0.2) !important;
+}
+
+.bz .dropdown-menu > li > a:focus {
+  background: rgba(0, 255, 0, 0.7) !important;
+  border: 1px solid rgba(0, 158, 0, 0.1) !important;
+  box-shadow: 0 0 10px rgba(0, 255, 0, 0.2) !important;
+}
+
+.bz .nav-pills > li > a:hover,
+.bz .nav-pills > li.active > a,
+.bz .nav-pills > li.active > a:hover {
+  text-shadow: 0 0 15px rgba(0, 255, 0, 1);
+}
+
+.bz .nav-pills > li.active > a:focus {
+  text-shadow: 0 0 15px rgba(0, 255, 0, 0.6);
+}
+
+/* input boxes */
+.bz input[type="text"],
+.bz input[type="password"],
+.bz input[type="text"]:disabled,
+.bz input[type="password"]:disabled,
+.bz input[type="number"]:disabled {
+  border: 1px solid rgba(0, 255, 0, 0.2);
+  background: rgba(0, 70, 0, 1);
+  color: white;
+  box-shadow: inset 0 0 8px rgba(0, 255, 0, 0.1);
+}
+
+.bz input.active:disabled {
+  color: white;
+  font-weight: 900;
+  background: rgba(0, 255, 0, 0.8);
+  border: 1px solid rgba(200, 255, 200, 0.8);
+  box-shadow: 0 0 20px rgba(0, 255, 0, 0.8);
+}
+
+.bz .sub_options input[type="number"] {
+  background: rgba(0, 70, 0, 1) !important;
+  box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.1) !important;
+  border: 1px solid rgba(0, 255, 0, 0.2) !important;
+}
+
+/* btn_std */
+.bz .btn_std {
+  border-image: url("coui://ui/mods/com.pa.bz-overhaul/img/btn_lrg_cca_red.png")
+    26 21 15 21 fill;
+}
+
+.bz .btn_std:hover {
+  border-image: url("coui://ui/mods/com.pa.bz-overhaul/img/btn_lrg_cca_red_hover.png")
+    26 21 15 21 fill;
+}
+
+.bz .btn_std:active {
+  border-image: url("coui://ui/mods/com.pa.bz-overhaul/img/btn_lrg_cca_red_active.png")
+    26 21 15 21 fill;
+  box-shadow: inset 500px 500px 500px 500px #000;
+}
+
+/* btn_hero */
+.bz .btn_hero {
+  border-image: url("coui://ui/mods/com.pa.bz-overhaul/img/btn_lrg_cca_red.png")
+    10 21 21 21 fill;
+}
+
+.bz .btn_hero:hover {
+  border-image: url("coui://ui/mods/com.pa.bz-overhaul/img/btn_lrg_cca_red_hover.png")
+    10 21 21 21 fill;
+}
+
+.bz .btn_hero:active {
+  border-image: url("coui://ui/mods/com.pa.bz-overhaul/img/btn_lrg_cca_red_active.png")
+    10 21 21 21 fill;
+}
+
+/* dropdown system picker */
+.bz .dropdown-system-picker {
+  background: rgba(0, 70, 0, 1);
+  border: 1px solid rgba(0, 255, 0, 0.2);
+  box-shadow: 0 0 10px rgba(0, 255, 0, 0.2);
+}
+
+.bz .dropdown-system-picker:hover {
+  background: rgba(0, 255, 0, 0.8);
+}
+
+/* checkbox text color */
+.bz .div_settings_control_input label,
+.div_settings_control_input label input[type="checkbox"] {
+  color: white !important;
+}
+
+/* tooltips */
+.bz .tooltip-inner {
+  max-width: 190px !important;
+  padding: 6px 8px;
+  background-color: rgba(0, 70, 0, 1) !important;
+  box-shadow: 0 0 25px rgba(0, 255, 0, 0.7) !important;
+}
+
+/* btn_toggle */
+.bz .btn_toggle,
+.bz .btn_toggle_shared_nsdfy {
+  background: rgba(0, 70, 0, 1) !important;
+  border: 1px solid rgba(0, 255, 0, 0.2) !important;
+  box-shadow: none !important;
+}
+
+.bz .btn_toggle:hover,
+.bz .btn_toggle_shared_nsdfy:hover {
+  background: rgba(0, 255, 0, 0.85) !important;
+  border: 1px solid rgba(0, 255, 0, 0.2) !important;
+  box-shadow: 0 0 20px rgba(0, 255, 0, 1) !important;
+}
+
+.bz .btn_toggle:active,
+.bz .btn_toggle.live,
+.bz .btn_toggle_shared_nsdfy.on {
+  background: rgba(0, 255, 0, 0.7) !important;
+  border: 1px solid rgba(0, 158, 0, 0.1) !important;
+  box-shadow: 0 0 20px rgba(0, 255, 0, 0.5) !important;
+}
+
+/* btn_std_gray */
+.bz .btn_std_gray {
+  border-image: url("coui://ui/mods/com.pa.bz-overhaul/img/btn_std_cca_red.png")
+    44 17 0 17 fill;
+}
+
+.bz .btn_std_gray:hover {
+  border-image: url("coui://ui/mods/com.pa.bz-overhaul/img/btn_std_cca_red_hover.png")
+    44 17 0 17 fill;
+}
+
+.bz .btn_std_gray:active {
+  border-image: url("coui://ui/mods/com.pa.bz-overhaul/img/btn_std_cca_red_active.png")
+    44 17 0 17 fill;
+}
+
+.bz .btn_std_gray_disabled {
+  border-image: url("coui://ui/mods/com.pa.bz-overhaul/img/btn_std_cca_red.png")
+    44 17 0 17 fill;
+}

@@ -1,0 +1,19 @@
+/* BZ Global */
+
+body.bz
+{
+    height: 100%;
+    width: 100%;
+    background: url('coui://ui/mods/com.pa.bz-overhaul/backgrounds/bz_menu.png') no-repeat;
+    background-size: cover;
+    background-position-x: 0px;
+    background-position-y: 0px;
+    background-position: bottom left;
+    color: #e6e6e6;;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    font-size: 1em;
+    font-family: "Sansation";
+    -webkit-user-select: none;
+}

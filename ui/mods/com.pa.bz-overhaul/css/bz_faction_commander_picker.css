@@ -1,0 +1,135 @@
+/* color picker fix */
+
+.div-color-picker {
+  width: 100% !important;
+  height: 100% !important;
+}
+
+/* commander picker colouring */
+
+.div-commander-picker-item {
+  background: rgba(0, 50, 70, 0.5) !important;
+  border: 1px solid rgba(0, 179, 255, 1) !important;
+}
+
+.div-commander-picker-item.btn_std_ix:hover {
+  background: rgba(0, 179, 255, 0.75) !important;
+  border: 1px solid rgba(0, 179, 255, 0.1) !important;
+  box-shadow: 0 0 15px rgba(0, 179, 255, 0.8) !important;
+}
+
+.div-commander-picker-item.btn_std_ix:active {
+  background: rgba(0, 179, 255, 1) !important;
+  border: 1px solid rgba(0, 179, 255, 1) !important;
+  box-shadow: 0 0 30px rgba(0, 179, 255, 1) !important;
+}
+
+.div-commander-picker-item.btn_std_ix.nsdfCommander {
+  color: rgb(228, 198, 158) !important;
+  border-color: #1747e7 !important;
+  background: rgba(0, 32, 100, 0.5) !important;
+}
+
+.div-commander-picker-item.nsdfCommander.btn_std_ix:hover {
+  background: rgba(27, 78, 243, 0.5) !important;
+  border: 1px solid rgba(0, 3, 158, 0.1) !important;
+  box-shadow: 0 0 15px rgba(28, 78, 241, 0.8) !important;
+}
+
+.div-commander-picker-item.nsdfCommander.btn_std_ix:active {
+  background: #1747e7 !important;
+  border: 1px solid #1747e7 !important;
+  box-shadow: 0 0 30px #1747e7 !important;
+}
+
+.div-commander-picker-item.btn_std_ix.ccaCommander {
+  color: rgb(255, 186, 177) !important;
+  border-color: #d32b00 !important;
+  background: rgba(100, 0, 0, 0.5) !important;
+}
+
+.div-commander-picker-item.ccaCommander.btn_std_ix:hover {
+  background: rgba(226, 26, 0, 0.5) !important;
+  border: 1px solid rgba(158, 0, 0, 0.1) !important;
+  box-shadow: 0 0 15px rgba(211, 42, 0, 0.8) !important;
+}
+
+.div-commander-picker-item.ccaCommander.btn_std_ix:active {
+  background: rgba(211, 43, 0, 1) !important;
+  border: 1px solid rgb(158, 0, 0) !important;
+  box-shadow: 0 0 30px rgba(211, 43, 0, 1) !important;
+}
+
+/* mla commander outlines */
+
+.slot-player.mlaslot {
+  border-image: url("coui://ui/mods/com.pa.bz-overhaul/img/ctrl_user_mla.png") 0 17 53 17 !important;
+}
+
+.slot-player.mlaslot.ready {
+  border-image: url("coui://ui/mods/com.pa.bz-overhaul/img/ctrl_user_locked_mla.png") 0 17 53 17 !important;
+}
+
+.slot-player.mlaslot.loading {
+  border-image: url("coui://ui/mods/com.pa.bz-overhaul/img/ctrl_user_locked_mla.png") 0 17 53 17 !important;
+}
+
+.slot-player.empty.ready {
+  border-image: url("coui://ui/main/game/new_game/img/ctrl_user_slot.png") 0 17 53 17 !important;
+}
+
+.slot-player-commander {
+  border: 1px solid rgb(0, 179, 255) !important;
+}
+
+/* nsdf commander outlines */
+
+.slot-player.nsdfSlot {
+  border-image: url("coui://ui/mods/com.pa.bz-overhaul/img/ctrl_user_nsdf.png") 0 17 53 17 !important;
+}
+
+.slot-player.nsdfSlot.ready {
+  border-image: url("coui://ui/mods/com.pa.bz-overhaul/img/ctrl_user_locked_nsdf.png") 0 17 53 17 !important;
+}
+
+.slot-player.nsdfSlot.loading {
+  border-image: url("coui://ui/mods/com.pa.bz-overhaul/img/ctrl_user_locked_nsdf.png") 0 17 53 17 !important;
+}
+
+/* cca commander outlines */
+
+.slot-player.ccaSlot {
+  border-image: url("coui://ui/mods/com.pa.bz-overhaul/img/ctrl_user_cca.png") 0 17 53 17 !important;
+}
+
+.slot-player.ccaSlot.ready {
+  border-image: url("coui://ui/mods/com.pa.bz-overhaul/img/ctrl_user_locked_cca.png") 0 17 53 17 !important;
+}
+
+.slot-player.ccaSlot.loading {
+  border-image: url("coui://ui/mods/com.pa.bz-overhaul/img/ctrl_user_locked_cca.png") 0 17 53 17 !important;
+}
+
+
+
+.nsdfSlot .slot-player-commander {
+  border: 1px solid #1747e7 !important;
+}
+
+.nsdfAlert {
+  margin: 0 20px 0 0 !important;
+  display: inline-block !important;
+  color: #1747e7 !important;
+  text-shadow: 0 0 40px #1747e7 !important;
+}
+
+.ccaSlot .slot-player-commander {
+  border: 1px solid #d32b00 !important;
+}
+
+.ccaAlert {
+  margin: 0 20px 0 0 !important;
+  display: inline-block !important;
+  color: #d32b00 !important;
+  text-shadow: 0 0 40px #d32b00 !important;
+}
