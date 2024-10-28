@@ -5,7 +5,7 @@
 }
 
 .nsdfui .div_group_select .bground {
-  border: 1px solid rgb(7, 0, 102);
+  border: 1px solid rgb(0, 96, 160);
   box-shadow: 0 0 10px rgba(0, 0, 255, 0.5);
   background: linear-gradient(to top, #45484d 0%, #000 100%);
 }
@@ -22,8 +22,8 @@
 }
 
 .nsdfui .unit_group_menu {
-  background: rgb(7, 0, 102);
-  border: 1px solid rgb(51, 53, 153);
+  background: rgb(0, 96, 160);
+  border: 1px solid rgb(51, 107, 153);
   box-shadow: 0 0 20px #000;
 }
 
@@ -33,8 +33,8 @@
 }
 
 .nsdfui .unit_group_menu .item {
-  color: rgb(51, 53, 153) !important;
-  border: 1px solid rgb(7, 0, 102);
+  color: rgb(51, 107, 153) !important;
+  border: 1px solid rgb(0, 96, 160);
 }
 
 .ccaui .unit_group_item {
@@ -44,7 +44,7 @@
 }
 
 .nsdfui .unit_group_item {
-  border: 1px solid rgb(7, 0, 102);
+  border: 1px solid rgb(0, 96, 160);
   color: #fff;
   box-shadow: 0 0 10px #000;
 }
@@ -65,10 +65,10 @@
 }
 
 .nsdfui .unit_group_item .numkey {
-  color: rgb(7, 0, 102);
+  color: rgb(0, 96, 160);
   background: black;
   text-shadow: none;
-  border: 1px solid rgb(7, 0, 102);
+  border: 1px solid rgb(0, 96, 160);
 }
 
 .ccaui .active {
@@ -78,7 +78,7 @@
 
 .nsdfui .active {
   background: rgba(0, 0, 255, 0.5) !important;
-  border: 1px solid rgb(7, 0, 102) !important;
+  border: 1px solid rgb(0, 96, 160) !important;
 }
 
 .ccaui .btn_std_ix:hover {
@@ -88,9 +88,9 @@
 }
 
 .nsdfui .btn_std_ix:hover {
-  box-shadow: inset 0 0 10px rgb(7, 0, 102) !important;
-  background: rgb(51, 53, 153);
-  background: rgb(7, 0, 102);
+  box-shadow: inset 0 0 10px rgb(0, 96, 160) !important;
+  background: rgb(51, 107, 153);
+  background: rgb(0, 96, 160);
   border: 1px solid rgba(0, 0, 255, 0.5) !important;
 }
 

@@ -15,9 +15,9 @@
 }
 
 .nsdf .div_build_bar_page {
-  border-left: 1px solid rgb(7, 0, 102);
-  border-top: 1px solid rgb(7, 0, 102);
-  box-shadow: 0 0 50px rgba(0, 0, 158, 0.5);
+  border-left: 1px solid rgb(0, 96, 160);
+  border-top: 1px solid rgb(0, 96, 160);
+  box-shadow: 0 0 50px rgba(0, 100, 158, 0.5);
 }
 
 .cca .div_build_bar_page.active_build_tab {
@@ -29,11 +29,11 @@
 }
 
 .nsdf .div_build_bar_page.active_build_tab {
-  border-left: 1px solid rgb(51, 53, 153);
-  border-top: 1px solid rgb(51, 53, 153);
-  border-right: 1px solid rgb(51, 53, 153);
-  border-bottom: 1px solid rgb(51, 53, 153);
-  box-shadow: 0 0 50px rgb(51, 53, 153);
+  border-left: 1px solid rgb(51, 107, 153);
+  border-top: 1px solid rgb(51, 107, 153);
+  border-right: 1px solid rgb(51, 107, 153);
+  border-bottom: 1px solid rgb(51, 107, 153);
+  box-shadow: 0 0 50px rgb(51, 107, 153);
 }
 
 .cca .div_build_item {
@@ -42,8 +42,8 @@
 }
 
 .nsdf .div_build_item {
-  border-right-color: rgb(7, 0, 102);
-  border-bottom-color: rgb(7, 0, 102);
+  border-right-color: rgb(0, 96, 160);
+  border-bottom-color: rgb(0, 96, 160);
 }
 
 .cca .span_hotkey {
@@ -52,7 +52,7 @@
 }
 
 .nsdf .span_hotkey {
-  border: 1px solid rgb(51, 53, 153) !important;
+  border: 1px solid rgb(51, 107, 153) !important;
   color: #fff !important;
 }
 
@@ -63,9 +63,9 @@
 }
 
 .nsdf .div_build_item.hover {
-  background: rgba(62, 54, 178, 0.5) !important;
-  border: 1px solid rgba(0, 0, 158, 0.5) !important;
-  box-shadow: 0 0 20px rgba(62, 54, 178, 0.5) !important;
+  background: rgba(54, 118, 178, 0.5) !important;
+  border: 1px solid rgba(0, 100, 158, 0.5) !important;
+  box-shadow: 0 0 20px rgba(54, 118, 178, 0.5) !important;
 }
 
 .cca .div_build_item.active {
@@ -75,9 +75,9 @@
 }
 
 .nsdf .div_build_item:active {
-  background: rgb(51, 53, 153, 0.85) !important;
-  border: 1px solid rgba(0, 0, 158, 0.5) !important;
-  box-shadow: 0 0 10px rgba(0, 0, 158, 0.85) !important;
+  background: rgba(51, 95, 153, 0.85) !important;
+  border: 1px solid rgba(0, 100, 158, 0.5) !important;
+  box-shadow: 0 0 10px rgba(0, 69, 158, 0.85) !important;
 }
 
 .cca .span_build_bar_tab {
@@ -90,8 +90,8 @@
 }
 
 .nsdf .span_build_bar_tab {
-  color: rgb(10, 0, 153);
-  text-shadow: 0 0 30px rgb(10, 0, 153);
+  color: rgb(0, 61, 153);
+  text-shadow: 0 0 30px rgb(0, 61, 153);
   border-right-color: #333;
   border-left-color: #333;
   border-bottom-color: #444;
@@ -105,9 +105,9 @@
 }
 
 .nsdf .span_build_bar_tab:hover {
-  background: rgb(10, 0, 153);
-  text-shadow: 0 0 30px rgb(10, 0, 153);
-  border: 1px solid rgba(0, 0, 158, 0.5) !important;
+  background: rgb(0, 61, 153);
+  text-shadow: 0 0 30px rgb(0, 61, 153);
+  border: 1px solid rgba(0, 100, 158, 0.5) !important;
 }
 
 .cca .span_build_bar_tab_active {
@@ -116,6 +116,6 @@
 }
 
 .nsdf .span_build_bar_tab_active {
-  border: 1px solid rgba(0, 0, 158, 0.5) !important;
-  box-shadow: 0 0 10px rgb(10, 0, 153) !important;
+  border: 1px solid rgba(0, 100, 158, 0.5) !important;
+  box-shadow: 0 0 10px rgb(0, 61, 153) !important;
 }

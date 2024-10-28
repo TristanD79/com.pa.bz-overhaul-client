@@ -17,7 +17,7 @@
 
 .nsdf .div_command_bar_cont,
 .nsdf .div_orders_bar_cont {
-  box-shadow: inset 0 0 8px rgba(0, 0, 158, 0.5);
+  box-shadow: inset 0 0 8px rgba(0, 100, 158, 0.5);
 }
 
 .cca .div_command_item_active,
@@ -29,9 +29,9 @@
 
 .nsdf .div_command_item_active,
 .nsdf a.div_command_item_active:hover {
-  background: rgb(51, 53, 153, 0.85);
-  border: 1px solid rgba(0, 0, 158, 0.5);
-  box-shadow: 0 0 20px rgb(51, 53, 153, 0.85);
+  background: rgba(51, 95, 153, 0.85);
+  border: 1px solid rgba(0, 100, 158, 0.5);
+  box-shadow: 0 0 20px rgba(51, 95, 153, 0.85);
 }
 
 .cca .div_command_item a:hover {
@@ -41,9 +41,9 @@
 }
 
 .nsdf .div_command_item a:hover {
-  background: rgba(62, 54, 178, 0.5);
-  border: 1px solid rgba(0, 0, 158, 0.5);
-  box-shadow: 0 0 20px rgba(62, 54, 178, 0.5);
+  background: rgba(54, 118, 178, 0.5);
+  border: 1px solid rgba(0, 100, 158, 0.5);
+  box-shadow: 0 0 20px rgba(54, 118, 178, 0.5);
 }
 
 .cca .span_tooltip_hotkey {
@@ -61,7 +61,7 @@
 }
 
 .nsdf .tooltip-inner {
-  box-shadow: 0 0 20px rgba(0, 0, 158, 0.5) !important;
+  box-shadow: 0 0 20px rgba(0, 100, 158, 0.5) !important;
 }
 
 .cca .tooltip_order {
@@ -79,9 +79,9 @@
 }
 
 .nsdf .btn_std_ix:hover {
-  background: rgba(62, 54, 178, 0.5);
-  border: 1px solid rgba(0, 0, 158, 0.5);
-  box-shadow: 0 0 20px rgba(62, 54, 178, 0.5);
+  background: rgba(54, 118, 178, 0.5);
+  border: 1px solid rgba(0, 100, 158, 0.5);
+  box-shadow: 0 0 20px rgba(54, 118, 178, 0.5);
 }
 
 .cca .cmd_order:hover {
@@ -92,7 +92,7 @@
 
 .nsdf .cmd_order:hover {
   background: rgba(74, 88, 218, 0.8);
-  border: 1px solid rgba(0, 0, 158, 0.5);
+  border: 1px solid rgba(0, 100, 158, 0.5);
   box-shadow: 0 0 20px rgba(74, 88, 218, 0.8);
 }
 
@@ -104,6 +104,6 @@
 
 .nsdf .cmd_order:active {
   background: rgba(74, 88, 218, 1);
-  border: 1px solid rgba(0, 0, 158, 0.5);
+  border: 1px solid rgba(0, 100, 158, 0.5);
   box-shadow: 0 0 20px rgba(74, 88, 218, 1);
 }
