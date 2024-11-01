@@ -1,0 +1,51 @@
+/* bz main menu welcome */
+
+#bz-main-menu-welcome {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 50%;
+  width: 50%;
+  z-index: 9999;
+  background-color: rgba(245, 110, 110, 0.6);
+  text-align: center;
+  display: flex;
+}
+
+#bz-main-menu-welcome-container {
+  background-image: url("coui://ui/mods/com.pa.bz-overhaul/backgrounds/default.png");
+  background-size: contain;
+  background-position: top center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 50%;
+  width: 50%;
+}
+
+#bz-main-menu-welcome-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5em;
+}
+
+#bz-main-menu-welcome-logo {
+  max-width: 480px;
+}
+
+#bz-main-menu-welcome-message {
+  margin-top: 50px;
+}
+
+#bz-main-menu-welcome-links a {
+  display: inline-block;
+  padding: 10px;
+  text-transform: uppercase;
+}
+
+#bz-main-menu-welcome-close {
+  margin-top: 20px;
+  text-transform: uppercase;
+}

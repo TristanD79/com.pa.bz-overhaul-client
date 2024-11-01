@@ -1,0 +1,50 @@
+<div id="bz-main-menu-welcome" style="display: none" data-bind="click:bzCloseMainMenuWelcome">
+  <div id="bz-main-menu-welcome-container">
+    <div id="bz-main-menu-welcome-content">
+      <img id="bz-main-menu-welcome-logo" src="coui://ui/mods/com.pa.bz-overhaul/logos/battlezone_rts_tactics.gif" />
+      <div id="bz-main-menu-welcome-message">
+        <!-- ko if: bzClientModLoaded -->
+        <div>
+          <loc>Welcome to Battlezone: RTS Tactics!</loc>
+        </div>
+        <div>
+          <loc>In order to be setup properly you will need to download the custom made Battlezone Audio.</loc>
+        </div>
+        <div>
+          <loc>Please follow the youtube guide below.</loc>
+        </div>
+        <!-- /ko -->
+        <!-- ko ifnot: bzClientModLoaded -->
+        <div>
+          <loc>It looks like you don't have the Battlezone: RTS Tactics Overhaul client mod installed.</loc>
+        </div>
+        <div>
+          <loc>You won't be able to play without it, luckily installing is easy with just a few clicks!</loc>
+        </div>
+        <!-- /ko -->
+      </div>
+      <div id="bz-main-menu-welcome-links">
+        <a data-bind="click: bzUrlClicked, clickBubble: false" href="insert_link_to_download">
+          <loc>Download Audio</loc>
+        </a>
+        <a data-bind="click: bzUrlClicked, clickBubble: false" href="insert_link_to_youtube_guide">
+          <loc>Youtube Guide</loc>
+        </a>
+      </div>
+      <!-- ko if: bzClientModLoaded -->
+      <div id="bz-main-menu-welcome-donotshow" data-bind="click: bzToggleDoNotShowMainMenuWelcome">
+        <label for="bz-main-menu-welcome-checkbox">
+          <loc>Do not show this again</loc>
+        </label>
+        <input id="bz-main-menu-welcome-checkbox" type="checkbox" style="pointer-events: none !important"
+          data-bind="checked: bzDoNotShowMainMenuWelcome" />
+      </div>
+      <!-- /ko -->
+      <div id="bz-main-menu-welcome-close">
+        <div>
+          <loc>press space to close</loc>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
