@@ -2,25 +2,19 @@
 
 #bz-main-menu-welcome {
   position: absolute;
-  top: 0;
-  left: 0;
-  height: 50%;
-  width: 50%;
+  top: 50%;
+  left: 50%;
+  height: 50%; /* Adjust this as needed */
+  width: 50%; /* Adjust this as needed */
   z-index: 9999;
-  background-color: rgba(245, 110, 110, 0.6);
+  background-color: rgba(37, 37, 37, 0.9);
   text-align: center;
   display: flex;
-}
+  justify-content: center; /* Center content horizontally */
+  align-items: center; /* Center content vertically */
+  transform: translate(-50%, -50%); /* Center the element itself */
 
-#bz-main-menu-welcome-container {
-  background-image: url("coui://ui/mods/com.pa.bz-overhaul/backgrounds/default.png");
-  background-size: contain;
-  background-position: top center;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  height: 50%;
-  width: 50%;
+  border: 4px solid #00ff4c; /* Adjust thickness and color here */
 }
 
 #bz-main-menu-welcome-content {
@@ -31,21 +25,36 @@
   font-size: 1.5em;
 }
 
+#bz-main-menu-welcome-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.0em;
+  margin-top: -30px;
+}
+
 #bz-main-menu-welcome-logo {
   max-width: 480px;
+  margin-top: 60px;
 }
 
 #bz-main-menu-welcome-message {
-  margin-top: 50px;
+  margin-top: 40px;
+}
+
+#bz-main-menu-welcome-donotshow {
+  margin-top: 10px;
 }
 
 #bz-main-menu-welcome-links a {
   display: inline-block;
   padding: 10px;
   text-transform: uppercase;
+  margin-top: 50px;
 }
 
 #bz-main-menu-welcome-close {
-  margin-top: 20px;
+  margin-top: 40px;
   text-transform: uppercase;
 }

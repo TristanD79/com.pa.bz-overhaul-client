@@ -2,6 +2,11 @@ $("#commander-img").remove()
 $("#logo-background").remove()
 var bzStartLoaded;
 
+var bzShowMainMenuWelcome = ko.observable()
+if (localStorage.bzShowMainMenuWelcome == undefined) { localStorage.bzShowMainMenuWelcome = true }
+if (localStorage.bzShowMainMenuWelcome == 'true') { bzShowMainMenuWelcome(true) }
+else { bzShowMainMenuWelcome(true) }
+
 if (!bzStartLoaded) {
   bzStartLoaded = true;
 
@@ -28,13 +33,19 @@ if (!bzStartLoaded) {
 loadCSS("coui://ui/mods/com.pa.bz-overhaul/css/main_menu_welcome.css");
 $("body").append(
   loadHtml(
-    "coui://ui/mods/com.pa.bz-overhaul/new_game/main_menu_welcome.html"
+    "coui://ui/mods/com.pa.bz-overhaul/start/main_menu_welcome.html"
   )
 );
 
-function showBanner() {
+function showWelcomeBanner() {
   $("#bz-main-menu-welcome").show(); // Show the banner
 }
+
+function bzToggleShowMainMenuWelcome() {
+  bzShowMainMenuWelcome(!bzShowMainMenuWelcome())
+  localStorage.bzShowMainMenuWelcome = bzShowMainMenuWelcome()
+}
+
 
 // Close the banner when clicking the close area or pressing space
 $("#bz-main-menu-welcome-close").on("click", function () {
@@ -47,9 +58,11 @@ $(document).on("keydown", function (event) {
   }
 });
 
-// Call the showBanner function after bzStart
-showBanner();
+// Call the showWelcomeBanner function after bzStart
+showWelcomeBanner();
 
-ko.computed(function () {
-  localStorage.selectedTheme = model.selectedTheme();
-})
+
+// Audio download button
+$("#menu").after(
+  loadHtml("coui://ui/mods/com.pa.bz-overhaul/start/audio_dl_button.html")
+);
