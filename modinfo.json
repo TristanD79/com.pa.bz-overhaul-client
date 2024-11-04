@@ -16,9 +16,9 @@
         "units",
         "faction"
     ],
+    "hidden": true,
     "dependencies": [
         "com.pa.bz-overhaul-server",
-        "com.pa.ferretmaster.map-effects-server",
         "com.pa.conundrum.cShareSystems"
     ],
     "scenes": {
