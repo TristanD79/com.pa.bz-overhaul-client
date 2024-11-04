@@ -20,7 +20,7 @@
             "planetCSG": [
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/bz_luna/brushes/moon_crater_02.json",
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "height": 819.5792846679688,
                     "op": "BO_Subtract",
                     "position": [
@@ -69,7 +69,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/bz_luna/brushes/moon_crater_02.json",
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "height": 807.3736572265625,
                     "op": "BO_Subtract",
                     "position": [
@@ -118,7 +118,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/bz_luna/brushes/moon_crater_02.json",
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "height": 806.9500732421875,
                     "op": "BO_Subtract",
                     "position": [
@@ -167,7 +167,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/bz_luna/brushes/moon_crater_02.json",
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "height": 812.5211791992188,
                     "op": "BO_Subtract",
                     "position": [
@@ -216,7 +216,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/bz_luna/brushes/moon_crater_02.json",
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "height": 814.4663696289062,
                     "op": "BO_Subtract",
                     "position": [
@@ -265,7 +265,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/bz_luna/brushes/moon_crater_02.json",
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "height": 807.1002197265625,
                     "op": "BO_Subtract",
                     "position": [
@@ -314,7 +314,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/bz_luna/brushes/moon_crater_02.json",
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "height": 807.10986328125,
                     "op": "BO_Subtract",
                     "position": [
@@ -363,7 +363,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/bz_luna/brushes/moon_crater_02.json",
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "height": 807.3736572265625,
                     "op": "BO_Subtract",
                     "position": [
@@ -412,7 +412,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/bz_luna/brushes/moon_crater_02.json",
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "height": 806.9500732421875,
                     "op": "BO_Subtract",
                     "position": [
@@ -461,7 +461,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/bz_luna/brushes/moon_crater_02.json",
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "height": 812.5211791992188,
                     "op": "BO_Subtract",
                     "position": [
@@ -510,7 +510,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/bz_luna/brushes/moon_crater_02.json",
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "height": 814.4663696289062,
                     "op": "BO_Subtract",
                     "position": [
@@ -559,7 +559,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/bz_luna/brushes/moon_crater_02.json",
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "height": 807.10986328125,
                     "op": "BO_Subtract",
                     "position": [
