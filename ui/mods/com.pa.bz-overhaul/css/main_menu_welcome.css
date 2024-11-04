@@ -1,5 +1,40 @@
 /* bz main menu welcome */
 
+@-webkit-keyframes bz_download_audio_pulse
+{
+	0%
+    {
+        color: white; /*text colour */
+        background-color: #001678
+    }
+
+	70%
+    {
+        color: rgb(27, 82, 233); /*text colour */
+        background-color: transparent;
+    }
+
+	100%
+    {
+        color: white; /*text colour */
+        background-color: #001678
+    }
+}
+
+#bz-download-audio-popup
+{
+    -webkit-animation: bz_download_audio_pulse 5s infinite;
+    color: rgb(255, 255, 255)!important; /*text colour when hover */
+    background: #255ba1!important; /*bg colour when hover */
+    border: 1px solid rgb(0, 174, 255)!important;
+    box-shadow: inset 0px 0px 10px rgb(0, 122, 221)!important;
+}
+
+#bz-download-audio-popup:hover
+{
+    -webkit-animation: none;
+}
+
 #bz-main-menu-welcome {
   position: absolute;
   top: 50%;

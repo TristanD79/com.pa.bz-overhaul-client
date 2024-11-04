@@ -15,21 +15,15 @@
       </div>
     </div>
     <div id="bz-main-menu-welcome-links">
-      <a data-bind="click: bzUrlClicked, clickBubble: false"
-        href="https://drive.google.com/file/d/1r7XcEuKwaVcHE6b8z6cgzaaCEPWZwxX8/view?usp=sharing">
+      <a data-bind="click: bzDownloadAudio, clickBubble: false">
         <loc>Download Audio</loc>
       </a>
-      <a data-bind="click: bzUrlClicked, clickBubble: false" 
-      href="https://youtu.be/BBJa32lCaaY?si=NR45ppIT1V19bG5E">
+      <a data-bind="click: bzOpenYoutubeGuide, clickBubble: false" >
         <loc>Youtube Guide</loc>
       </a>
     </div>
     <div id="bz-main-menu-welcome-donotshow" data-bind="click: bzToggleShowMainMenuWelcome">
-      <label for="bz-main-menu-welcome-checkbox">
-        <loc>Do not show this again</loc>
-      </label>
-      <input id="bz-main-menu-welcome-checkbox" type="checkbox" style="pointer-events: none !important"
-        data-bind="checked: bzShowMainMenuWelcome" />
+     
     </div>
     <div id="bz-main-menu-welcome-close">
       <div>
