@@ -1,8 +1,8 @@
 //most code in this file was taken from legions live game players file
 
 var bzLiveGamePlayersLoaded;
-var nsdfCommanders = ["/pa/units/commanders/nsdf_commander/nsdf_commander.json"]
-var ccaCommanders = ["/pa/units/commanders/cca_commander/cca_commander.json"]
+var nsdfCommanders = ["/pa/units/commanders/nsdf_recycler/nsdf_recycler.json"]
+var ccaCommanders = ["/pa/units/commanders/cca_recycler/cca_recycler.json"]
 
 if (!bzLiveGamePlayersLoaded) {
   bzLiveGamePlayersLoaded = true;
@@ -58,9 +58,6 @@ if (!bzLiveGamePlayersLoaded) {
       model.isMixed = ko.computed(function () {
         return isNSDFOrCCAOrMixedOrVanilla() === "mixed";
       });
-
-
-
 
 
       model.commanderImage = function (data) {
