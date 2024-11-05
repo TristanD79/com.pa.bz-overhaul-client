@@ -1,6 +1,6 @@
 {
-    "name": "BZ Luna Maze System",
-    "description": "Battle for control of the bio-scrap fields between the cracks and caverns of the Luna Maze.",
+    "name": "BZ Luna Maze",
+    "description": "Take control of the bio-scrap fields between the cracks and caverns of Luna Maze.",
     "creator": "Tristan",
     "version": "1.0",
     "planets": [

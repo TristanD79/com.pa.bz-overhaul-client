@@ -1,6 +1,6 @@
 {
-    "name": "BZ Lava Pathways System",
-    "description": "Battle your way through the ground above the lava and secure the scrap.",
+    "name": "BZ Lava Pathways",
+    "description": "Fight your way through pathways, and over lava to secure the plentiful biometal scrap.",
     "creator": "Tristan",
     "version": "1.0",
     "planets": [
@@ -25,7 +25,7 @@
                 "waterDepth": 50,
                 "temperature": 50,
                 "metalDensity": 5,
-                "metalClusters": 30.000001907348633,
+                "metalClusters": 30,
                 "metalSpotLimit": -1,
                 "biomeScale": 50,
                 "biome": "bz_lava",

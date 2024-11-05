@@ -1,11 +1,12 @@
 model.biomes.push('bz_luna')
 model.biomes.push('bz_ice')
 model.biomes.push('bz_lava')
+model.biomes.push('bz_mountain')
 
 
 var bztemplates = [
     {
-        name: "luna template",
+        name: "bz luna template",
         mass: 20000,
         required_thrust_to_move: 0,
         planet: {
@@ -22,7 +23,7 @@ var bztemplates = [
         },
     },
     {
-        name: "ice template",
+        name: "bz ice template",
         mass: 20000,
         required_thrust_to_move: 0,
         planet: {
@@ -39,7 +40,7 @@ var bztemplates = [
         },
     },
     {
-        name: "lava template",
+        name: "bz lava template",
         mass: 20000,
         required_thrust_to_move: 0,
         planet: {

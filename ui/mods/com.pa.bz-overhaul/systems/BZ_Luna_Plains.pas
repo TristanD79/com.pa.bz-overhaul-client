@@ -1,5 +1,5 @@
 {
-    "name": "BZ Luna Plains System",
+    "name": "BZ Luna Plains",
     "description": "Battle over the bio-scrap fields of Luna.",
     "creator": "Tristan",
     "version": "1.0",

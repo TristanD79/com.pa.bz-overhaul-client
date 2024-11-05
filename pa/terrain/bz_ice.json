@@ -24,7 +24,7 @@
             ]
         },
         {
-            "spec": "/pa/terrain/mountain/mountain.json",
+            "spec": "/pa/terrain/bz_mountain/bz_mountain.json",
             "temperature": [
                 -0.8,
                 0.8,
