@@ -18,8 +18,7 @@
     ],
     "hidden": true,
     "dependencies": [
-        "com.pa.bz-overhaul-server",
-        "com.pa.conundrum.cShareSystems"
+        "com.pa.bz-overhaul-server"
     ],
     "scenes": {
         "start": [
