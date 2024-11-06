@@ -54,7 +54,7 @@ var bzOpenYoutubeGuide = function(){
 }
 
 var bzDownloadAudio = function(){
-  engine.call( 'web.launchPage', 'https://drive.google.com/file/d/1o4Xqr7J5x4kOFvlbrzG9lHcfrb7vofu8/view?usp=sharing' );
+  engine.call( 'web.launchPage', 'https://drive.google.com/file/d/1k7pqmqrnoSqH3IJkvw5dliPJkKmeY8jA/view' );
 }
 
 
