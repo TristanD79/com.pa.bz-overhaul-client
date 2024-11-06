@@ -3,6 +3,8 @@ Battlezone: RTS Tactics (client)
 
 com.pa.bz-overhaul-client
 
+![image](https://i.imgur.com/TEVJLuz.png)
+
 ## Licensing
 
 Battlezone: RTS Tactics is dual licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/) and MIT for software portions containing JavaScript code.
