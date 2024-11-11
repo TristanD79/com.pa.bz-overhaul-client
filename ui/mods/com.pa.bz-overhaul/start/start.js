@@ -49,12 +49,12 @@ function bzToggleShowMainMenuWelcome() {
   localStorage.bzShowMainMenuWelcome = bzShowMainMenuWelcome()
 }
 
-var bzOpenYoutubeGuide = function(){
-  engine.call( 'web.launchPage', 'https://youtu.be/T_CnW75twO0' );
+var bzOpenYoutubeGuide = function () {
+  engine.call('web.launchPage', 'https://youtu.be/T_CnW75twO0');
 }
 
-var bzDownloadAudio = function(){
-  engine.call( 'web.launchPage', 'https://drive.google.com/file/d/1YZt43YOTbyPYsD-A7WlMN4o-hbjKBy2H/view' );
+var bzDownloadAudio = function () {
+  engine.call('web.launchPage', 'https://drive.google.com/file/d/1YZt43YOTbyPYsD-A7WlMN4o-hbjKBy2H/view');
 }
 
 
@@ -62,7 +62,7 @@ var bzDownloadAudio = function(){
 $("#bz-main-menu-welcome-close").on("click", function () {
   $("#bz-main-menu-welcome").hide(); // Hide the banner
   bzShowMainMenuWelcome(false)
-    localStorage.bzShowMainMenuWelcome = false
+  localStorage.bzShowMainMenuWelcome = false
 });
 
 $(document).on("keydown", function (event) {
