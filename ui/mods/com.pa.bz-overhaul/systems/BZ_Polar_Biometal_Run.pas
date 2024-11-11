@@ -122,7 +122,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_03.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_03.json",
                     "height": 798.1484375,
                     "op": "BO_Add",
                     "position": [
@@ -171,7 +171,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_03.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_03.json",
                     "height": 798.1484375,
                     "op": "BO_Add",
                     "position": [
@@ -220,7 +220,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_01.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_01.json",
                     "height": 805.1243896484375,
                     "op": "BO_Add",
                     "position": [
@@ -269,7 +269,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_01.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_01.json",
                     "height": 805.1243896484375,
                     "op": "BO_Add",
                     "position": [
@@ -318,7 +318,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_03.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_03.json",
                     "height": 803.7967529296875,
                     "op": "BO_Add",
                     "position": [
@@ -367,7 +367,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_03.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_03.json",
                     "height": 803.7967529296875,
                     "op": "BO_Add",
                     "position": [
@@ -416,7 +416,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_06.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_06.json",
                     "height": 796.7324829101562,
                     "op": "BO_Add",
                     "position": [
@@ -465,7 +465,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_06.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_06.json",
                     "height": 796.7324829101562,
                     "op": "BO_Add",
                     "position": [
@@ -514,7 +514,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_09.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_09.json",
                     "height": 816.2455444335938,
                     "op": "BO_Add",
                     "position": [
@@ -563,7 +563,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_09.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_09.json",
                     "height": 816.2455444335938,
                     "op": "BO_Add",
                     "position": [
@@ -612,7 +612,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_04.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_04.json",
                     "height": 797.3473510742188,
                     "op": "BO_Add",
                     "position": [
@@ -661,7 +661,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_04.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_04.json",
                     "height": 797.3473510742188,
                     "op": "BO_Add",
                     "position": [
@@ -710,7 +710,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_01.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_01.json",
                     "height": 817.531982421875,
                     "op": "BO_Add",
                     "position": [
@@ -759,7 +759,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_01.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_01.json",
                     "height": 817.531982421875,
                     "op": "BO_Add",
                     "position": [
@@ -808,7 +808,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_06.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_06.json",
                     "height": 808.052734375,
                     "op": "BO_Add",
                     "position": [
@@ -857,7 +857,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_06.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_06.json",
                     "height": 808.052734375,
                     "op": "BO_Add",
                     "position": [
@@ -906,7 +906,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_03.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_03.json",
                     "height": 797.2197875976562,
                     "op": "BO_Add",
                     "position": [
@@ -955,7 +955,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_03.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_03.json",
                     "height": 797.2197875976562,
                     "op": "BO_Add",
                     "position": [
@@ -1004,7 +1004,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_06.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_06.json",
                     "height": 793.576416015625,
                     "op": "BO_Add",
                     "position": [
@@ -1053,7 +1053,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_06.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_06.json",
                     "height": 793.576416015625,
                     "op": "BO_Add",
                     "position": [
@@ -1102,7 +1102,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_10.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_10.json",
                     "height": 804.9359741210938,
                     "op": "BO_Add",
                     "position": [
@@ -1151,7 +1151,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_10.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_10.json",
                     "height": 804.9359741210938,
                     "op": "BO_Add",
                     "position": [
@@ -1200,7 +1200,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_07.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_07.json",
                     "height": 791.7330932617188,
                     "op": "BO_Add",
                     "position": [
@@ -1249,7 +1249,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_07.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_07.json",
                     "height": 791.7330932617188,
                     "op": "BO_Add",
                     "position": [
@@ -1298,7 +1298,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_04.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_04.json",
                     "height": 794.5293579101562,
                     "op": "BO_Add",
                     "position": [
@@ -1347,7 +1347,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_04.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_04.json",
                     "height": 794.5293579101562,
                     "op": "BO_Add",
                     "position": [
@@ -1396,7 +1396,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_03.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_03.json",
                     "height": 795.4144287109375,
                     "op": "BO_Add",
                     "position": [
@@ -1445,7 +1445,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_03.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_03.json",
                     "height": 795.4144287109375,
                     "op": "BO_Add",
                     "position": [
@@ -1494,7 +1494,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_01.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_01.json",
                     "height": 792.9188842773438,
                     "op": "BO_Add",
                     "position": [
@@ -1543,7 +1543,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_01.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_01.json",
                     "height": 792.9188842773438,
                     "op": "BO_Add",
                     "position": [
@@ -1592,7 +1592,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_01.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_01.json",
                     "height": 792.1953735351562,
                     "op": "BO_Add",
                     "position": [
@@ -1641,7 +1641,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_01.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_01.json",
                     "height": 792.1953735351562,
                     "op": "BO_Add",
                     "position": [
@@ -1690,7 +1690,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_02.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_02.json",
                     "height": 792.1461791992188,
                     "op": "BO_Add",
                     "position": [
@@ -1739,7 +1739,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_02.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_02.json",
                     "height": 792.1461791992188,
                     "op": "BO_Add",
                     "position": [
@@ -1788,7 +1788,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_06.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_06.json",
                     "height": 790.7669677734375,
                     "op": "BO_Add",
                     "position": [
@@ -1837,7 +1837,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_06.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_06.json",
                     "height": 790.7669677734375,
                     "op": "BO_Add",
                     "position": [
@@ -1984,7 +1984,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_11.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_11.json",
                     "height": 816.6928100585938,
                     "op": "BO_Add",
                     "position": [
@@ -2033,7 +2033,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_11.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_11.json",
                     "height": 816.6928100585938,
                     "op": "BO_Add",
                     "position": [
@@ -2082,7 +2082,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_03.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_03.json",
                     "height": 807.5784301757812,
                     "op": "BO_Add",
                     "position": [
@@ -2131,7 +2131,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_03.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_03.json",
                     "height": 807.5784301757812,
                     "op": "BO_Add",
                     "position": [
@@ -2180,7 +2180,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_09.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_09.json",
                     "height": 801.8001098632812,
                     "op": "BO_Add",
                     "position": [
@@ -2229,7 +2229,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_09.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_09.json",
                     "height": 801.8001098632812,
                     "op": "BO_Add",
                     "position": [
@@ -2278,7 +2278,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_04.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_04.json",
                     "height": 806.4696044921875,
                     "op": "BO_Add",
                     "position": [
@@ -2327,7 +2327,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_04.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_04.json",
                     "height": 806.4696044921875,
                     "op": "BO_Add",
                     "position": [
@@ -2376,7 +2376,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_08.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_08.json",
                     "height": 814.54931640625,
                     "op": "BO_Add",
                     "position": [
@@ -2425,7 +2425,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_08.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_08.json",
                     "height": 814.54931640625,
                     "op": "BO_Add",
                     "position": [
@@ -2474,7 +2474,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_03.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_03.json",
                     "height": 809.8060302734375,
                     "op": "BO_Add",
                     "position": [
@@ -2523,7 +2523,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_03.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_03.json",
                     "height": 809.8060302734375,
                     "op": "BO_Add",
                     "position": [
@@ -2670,7 +2670,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_09.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_09.json",
                     "height": 807.5636596679688,
                     "op": "BO_Add",
                     "position": [
@@ -2719,7 +2719,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_09.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_09.json",
                     "height": 807.5636596679688,
                     "op": "BO_Add",
                     "position": [
@@ -2768,7 +2768,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_07.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_07.json",
                     "height": 804.9381713867188,
                     "op": "BO_Add",
                     "position": [
@@ -2817,7 +2817,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_07.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_07.json",
                     "height": 804.9381713867188,
                     "op": "BO_Add",
                     "position": [
@@ -2866,7 +2866,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_02.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_02.json",
                     "height": 801.7211303710938,
                     "op": "BO_Add",
                     "position": [
@@ -2915,7 +2915,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_02.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_02.json",
                     "height": 801.7211303710938,
                     "op": "BO_Add",
                     "position": [
@@ -2964,7 +2964,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_01.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_01.json",
                     "height": 801.134033203125,
                     "op": "BO_Add",
                     "position": [
@@ -3013,7 +3013,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_01.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_01.json",
                     "height": 801.134033203125,
                     "op": "BO_Add",
                     "position": [
@@ -3062,7 +3062,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_01.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_01.json",
                     "height": 802.345703125,
                     "op": "BO_Add",
                     "position": [
@@ -3111,7 +3111,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_01.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_01.json",
                     "height": 802.345703125,
                     "op": "BO_Add",
                     "position": [
@@ -3160,7 +3160,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_04.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_04.json",
                     "height": 802.8352661132812,
                     "op": "BO_Add",
                     "position": [
@@ -3209,7 +3209,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_04.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_04.json",
                     "height": 802.8352661132812,
                     "op": "BO_Add",
                     "position": [
@@ -3258,7 +3258,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_13.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_13.json",
                     "height": 806.020751953125,
                     "op": "BO_Add",
                     "position": [
@@ -3307,7 +3307,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_13.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_13.json",
                     "height": 806.020751953125,
                     "op": "BO_Add",
                     "position": [
@@ -3356,7 +3356,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_12.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_12.json",
                     "height": 801.5384521484375,
                     "op": "BO_Add",
                     "position": [
@@ -3405,7 +3405,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_12.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_12.json",
                     "height": 801.5384521484375,
                     "op": "BO_Add",
                     "position": [
@@ -4679,7 +4679,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_06.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_06.json",
                     "height": 785.9057006835938,
                     "op": "BO_Add",
                     "position": [
@@ -4728,7 +4728,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_06.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_06.json",
                     "height": 785.9057006835938,
                     "op": "BO_Add",
                     "position": [
@@ -4777,7 +4777,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_09.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_09.json",
                     "height": 787.628662109375,
                     "op": "BO_Add",
                     "position": [
@@ -4826,7 +4826,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_09.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_09.json",
                     "height": 787.628662109375,
                     "op": "BO_Add",
                     "position": [
@@ -4875,7 +4875,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_07.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_07.json",
                     "height": 796.9931640625,
                     "op": "BO_Add",
                     "position": [
@@ -4924,7 +4924,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_07.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_07.json",
                     "height": 796.9931640625,
                     "op": "BO_Add",
                     "position": [
@@ -4973,7 +4973,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_08.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_08.json",
                     "height": 800.3218994140625,
                     "op": "BO_Add",
                     "position": [
@@ -5022,7 +5022,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_08.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_08.json",
                     "height": 800.3218994140625,
                     "op": "BO_Add",
                     "position": [
@@ -5071,7 +5071,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_01.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_01.json",
                     "height": 794.708740234375,
                     "op": "BO_Add",
                     "position": [
@@ -5120,7 +5120,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_01.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_01.json",
                     "height": 794.708740234375,
                     "op": "BO_Add",
                     "position": [
@@ -5169,7 +5169,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_10.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_10.json",
                     "height": 791.7157592773438,
                     "op": "BO_Add",
                     "position": [
@@ -5218,7 +5218,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_10.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_10.json",
                     "height": 791.7157592773438,
                     "op": "BO_Add",
                     "position": [
@@ -5267,7 +5267,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_06.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_06.json",
                     "height": 790.927734375,
                     "op": "BO_Add",
                     "position": [
@@ -5316,7 +5316,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_06.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_06.json",
                     "height": 790.927734375,
                     "op": "BO_Add",
                     "position": [
@@ -5365,7 +5365,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_01.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_01.json",
                     "height": 797.9937744140625,
                     "op": "BO_Add",
                     "position": [
@@ -5414,7 +5414,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_01.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_01.json",
                     "height": 797.9937744140625,
                     "op": "BO_Add",
                     "position": [
@@ -5463,7 +5463,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_03.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_03.json",
                     "height": 782.9935913085938,
                     "op": "BO_Add",
                     "position": [
@@ -5512,7 +5512,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_03.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_03.json",
                     "height": 782.9935913085938,
                     "op": "BO_Add",
                     "position": [
@@ -5561,7 +5561,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_05.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_05.json",
                     "height": 788.2324829101562,
                     "op": "BO_Add",
                     "position": [
@@ -5610,7 +5610,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_05.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_05.json",
                     "height": 788.2324829101562,
                     "op": "BO_Add",
                     "position": [
@@ -5659,7 +5659,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_11.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_11.json",
                     "height": 786.965087890625,
                     "op": "BO_Add",
                     "position": [
@@ -5708,7 +5708,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_11.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_11.json",
                     "height": 786.965087890625,
                     "op": "BO_Add",
                     "position": [
@@ -5757,7 +5757,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_02.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_02.json",
                     "height": 787.5592651367188,
                     "op": "BO_Add",
                     "position": [
@@ -5806,7 +5806,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_02.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_02.json",
                     "height": 787.5592651367188,
                     "op": "BO_Add",
                     "position": [
@@ -5855,7 +5855,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_01.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_01.json",
                     "height": 787.9090576171875,
                     "op": "BO_Add",
                     "position": [
@@ -5904,7 +5904,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_01.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_01.json",
                     "height": 787.9090576171875,
                     "op": "BO_Add",
                     "position": [
@@ -5953,7 +5953,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_01.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_01.json",
                     "height": 789.197998046875,
                     "op": "BO_Add",
                     "position": [
@@ -6002,7 +6002,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_01.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_01.json",
                     "height": 789.197998046875,
                     "op": "BO_Add",
                     "position": [
@@ -6051,7 +6051,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_05.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_05.json",
                     "height": 787.968017578125,
                     "op": "BO_Add",
                     "position": [
@@ -6100,7 +6100,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_05.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_05.json",
                     "height": 787.968017578125,
                     "op": "BO_Add",
                     "position": [
@@ -6149,7 +6149,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_09.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_09.json",
                     "height": 787.3294677734375,
                     "op": "BO_Add",
                     "position": [
@@ -6198,7 +6198,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_09.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_09.json",
                     "height": 787.3294677734375,
                     "op": "BO_Add",
                     "position": [
@@ -6345,7 +6345,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_12.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_12.json",
                     "height": 774.8088989257812,
                     "op": "BO_Add",
                     "position": [
@@ -6394,7 +6394,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_12.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_12.json",
                     "height": 774.8088989257812,
                     "op": "BO_Add",
                     "position": [
@@ -6443,7 +6443,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_13.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_13.json",
                     "height": 788.7489013671875,
                     "op": "BO_Add",
                     "position": [
@@ -6492,7 +6492,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_13.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_13.json",
                     "height": 788.7489013671875,
                     "op": "BO_Add",
                     "position": [
@@ -6541,7 +6541,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_01.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_01.json",
                     "height": 789.9605102539062,
                     "op": "BO_Add",
                     "position": [
@@ -6590,7 +6590,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_01.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_01.json",
                     "height": 789.9605102539062,
                     "op": "BO_Add",
                     "position": [
@@ -6639,7 +6639,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_02.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_02.json",
                     "height": 788.4833374023438,
                     "op": "BO_Add",
                     "position": [
@@ -6688,7 +6688,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_02.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_02.json",
                     "height": 788.4833374023438,
                     "op": "BO_Add",
                     "position": [
@@ -6737,7 +6737,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_01.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_01.json",
                     "height": 804.4727172851562,
                     "op": "BO_Add",
                     "position": [
@@ -6786,7 +6786,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_01.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_01.json",
                     "height": 804.4727172851562,
                     "op": "BO_Add",
                     "position": [
@@ -6835,7 +6835,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_04.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_04.json",
                     "height": 818.38232421875,
                     "op": "BO_Add",
                     "position": [
@@ -6884,7 +6884,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_04.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_04.json",
                     "height": 818.38232421875,
                     "op": "BO_Add",
                     "position": [
@@ -7031,7 +7031,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_09.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_09.json",
                     "height": 823.8759765625,
                     "op": "BO_Add",
                     "position": [
@@ -7080,7 +7080,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_09.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_09.json",
                     "height": 823.8759765625,
                     "op": "BO_Add",
                     "position": [
@@ -7129,7 +7129,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_08.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_08.json",
                     "height": 820.0267333984375,
                     "op": "BO_Add",
                     "position": [
@@ -7178,7 +7178,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_08.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_08.json",
                     "height": 820.0267333984375,
                     "op": "BO_Add",
                     "position": [
@@ -7227,7 +7227,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_02.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_02.json",
                     "height": 813.8377075195312,
                     "op": "BO_Add",
                     "position": [
@@ -7276,7 +7276,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_02.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_02.json",
                     "height": 813.8377075195312,
                     "op": "BO_Add",
                     "position": [
@@ -7325,7 +7325,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_07.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_07.json",
                     "height": 828.171875,
                     "op": "BO_Add",
                     "position": [
@@ -7374,7 +7374,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_07.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_07.json",
                     "height": 828.171875,
                     "op": "BO_Add",
                     "position": [
@@ -7423,7 +7423,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_09.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_09.json",
                     "height": 822.3910522460938,
                     "op": "BO_Add",
                     "position": [
@@ -7472,7 +7472,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_09.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_09.json",
                     "height": 822.3910522460938,
                     "op": "BO_Add",
                     "position": [
@@ -7668,7 +7668,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_03.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_03.json",
                     "height": 795.6614990234375,
                     "op": "BO_Add",
                     "position": [
@@ -7717,7 +7717,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_03.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_03.json",
                     "height": 795.6614990234375,
                     "op": "BO_Add",
                     "position": [
@@ -7766,7 +7766,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_09.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_09.json",
                     "height": 798.0850830078125,
                     "op": "BO_Add",
                     "position": [
@@ -7815,7 +7815,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_09.json",
+                    "spec": "/pa/terrain/bz_ice/brushes/ice_cliff_09.json",
                     "height": 798.0850830078125,
                     "op": "BO_Add",
                     "position": [

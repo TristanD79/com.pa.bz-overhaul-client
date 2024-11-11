@@ -3866,7 +3866,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/moon/brushes/moon_ruin_01.json",
+                    "spec": "/pa/terrain/bz_luna/brushes/moon_ruin_01.json",
                     "height": 834.955078125,
                     "op": "BO_Add",
                     "position": [
@@ -3915,7 +3915,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/moon/brushes/moon_ruin_01.json",
+                    "spec": "/pa/terrain/bz_luna/brushes/moon_ruin_01.json",
                     "height": 834.955078125,
                     "op": "BO_Add",
                     "position": [
@@ -3964,7 +3964,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/moon/brushes/moon_ruin_01.json",
+                    "spec": "/pa/terrain/bz_luna/brushes/moon_ruin_01.json",
                     "height": 835.898193359375,
                     "op": "BO_Add",
                     "position": [
@@ -4013,7 +4013,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/moon/brushes/moon_ruin_01.json",
+                    "spec": "/pa/terrain/bz_luna/brushes/moon_ruin_01.json",
                     "height": 835.898193359375,
                     "op": "BO_Add",
                     "position": [
@@ -4062,7 +4062,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/generic/brushes/unit_cannon_wreckage.json",
+                    "spec": "/pa/terrain/bz_generic/brushes/unit_cannon_wreckage.json",
                     "height": 838.9219360351562,
                     "op": "BO_Add",
                     "position": [
@@ -4111,7 +4111,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/generic/brushes/unit_cannon_wreckage.json",
+                    "spec": "/pa/terrain/bz_generic/brushes/unit_cannon_wreckage.json",
                     "height": 838.9219360351562,
                     "op": "BO_Add",
                     "position": [
@@ -4160,7 +4160,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/moon/brushes/moon_ruin_01.json",
+                    "spec": "/pa/terrain/bz_luna/brushes/moon_ruin_01.json",
                     "height": 806.632080078125,
                     "op": "BO_Add",
                     "position": [
@@ -4209,7 +4209,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/moon/brushes/moon_ruin_01.json",
+                    "spec": "/pa/terrain/bz_luna/brushes/moon_ruin_01.json",
                     "height": 806.632080078125,
                     "op": "BO_Add",
                     "position": [
@@ -4258,7 +4258,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/generic/brushes/unit_cannon_wreckage.json",
+                    "spec": "/pa/terrain/bz_generic/brushes/unit_cannon_wreckage.json",
                     "height": 806.0471801757812,
                     "op": "BO_Add",
                     "position": [
@@ -4307,7 +4307,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/generic/brushes/unit_cannon_wreckage.json",
+                    "spec": "/pa/terrain/bz_generic/brushes/unit_cannon_wreckage.json",
                     "height": 806.0471801757812,
                     "op": "BO_Add",
                     "position": [
@@ -4356,7 +4356,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/moon/brushes/moon_ruin_01.json",
+                    "spec": "/pa/terrain/bz_luna/brushes/moon_ruin_01.json",
                     "height": 794.90576171875,
                     "op": "BO_Add",
                     "position": [
@@ -4405,7 +4405,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/moon/brushes/moon_ruin_01.json",
+                    "spec": "/pa/terrain/bz_luna/brushes/moon_ruin_01.json",
                     "height": 794.90576171875,
                     "op": "BO_Add",
                     "position": [
@@ -4454,7 +4454,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/moon/brushes/moon_ruin_01.json",
+                    "spec": "/pa/terrain/bz_luna/brushes/moon_ruin_01.json",
                     "height": 795.0049438476562,
                     "op": "BO_Add",
                     "position": [
@@ -4503,7 +4503,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/moon/brushes/moon_ruin_01.json",
+                    "spec": "/pa/terrain/bz_luna/brushes/moon_ruin_01.json",
                     "height": 795.0049438476562,
                     "op": "BO_Add",
                     "position": [
@@ -4552,7 +4552,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/generic/brushes/unit_cannon_wreckage.json",
+                    "spec": "/pa/terrain/bz_generic/brushes/unit_cannon_wreckage.json",
                     "height": 798.5992431640625,
                     "op": "BO_Add",
                     "position": [
@@ -4601,7 +4601,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/generic/brushes/unit_cannon_wreckage.json",
+                    "spec": "/pa/terrain/bz_generic/brushes/unit_cannon_wreckage.json",
                     "height": 798.5992431640625,
                     "op": "BO_Add",
                     "position": [
@@ -5042,7 +5042,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/generic/brushes/unit_cannon_wreckage.json",
+                    "spec": "/pa/terrain/bz_generic/brushes/unit_cannon_wreckage.json",
                     "height": 823.8079833984375,
                     "op": "BO_Add",
                     "position": [
@@ -5091,7 +5091,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/generic/brushes/unit_cannon_wreckage.json",
+                    "spec": "/pa/terrain/bz_generic/brushes/unit_cannon_wreckage.json",
                     "height": 823.8079833984375,
                     "op": "BO_Add",
                     "position": [
@@ -5140,7 +5140,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/moon/brushes/moon_ruin_01.json",
+                    "spec": "/pa/terrain/bz_luna/brushes/moon_ruin_01.json",
                     "height": 822.0013427734375,
                     "op": "BO_Add",
                     "position": [
@@ -5189,7 +5189,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/moon/brushes/moon_ruin_01.json",
+                    "spec": "/pa/terrain/bz_luna/brushes/moon_ruin_01.json",
                     "height": 822.0013427734375,
                     "op": "BO_Add",
                     "position": [
@@ -5238,7 +5238,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/moon/brushes/moon_ruin_01.json",
+                    "spec": "/pa/terrain/bz_luna/brushes/moon_ruin_01.json",
                     "height": 812.9318237304688,
                     "op": "BO_Add",
                     "position": [
@@ -5287,7 +5287,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/moon/brushes/moon_ruin_01.json",
+                    "spec": "/pa/terrain/bz_luna/brushes/moon_ruin_01.json",
                     "height": 812.9318237304688,
                     "op": "BO_Add",
                     "position": [
@@ -5336,7 +5336,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/moon/brushes/moon_ruin_01.json",
+                    "spec": "/pa/terrain/bz_luna/brushes/moon_ruin_01.json",
                     "height": 807.2688598632812,
                     "op": "BO_Add",
                     "position": [
@@ -5385,7 +5385,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/moon/brushes/moon_ruin_01.json",
+                    "spec": "/pa/terrain/bz_luna/brushes/moon_ruin_01.json",
                     "height": 807.2688598632812,
                     "op": "BO_Add",
                     "position": [
@@ -5434,7 +5434,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/moon/brushes/moon_ruin_01.json",
+                    "spec": "/pa/terrain/bz_luna/brushes/moon_ruin_01.json",
                     "height": 799.981201171875,
                     "op": "BO_Add",
                     "position": [
@@ -5483,7 +5483,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/moon/brushes/moon_ruin_01.json",
+                    "spec": "/pa/terrain/bz_luna/brushes/moon_ruin_01.json",
                     "height": 799.981201171875,
                     "op": "BO_Add",
                     "position": [
@@ -5532,7 +5532,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/moon/brushes/moon_ruin_01.json",
+                    "spec": "/pa/terrain/bz_luna/brushes/moon_ruin_01.json",
                     "height": 813.5460205078125,
                     "op": "BO_Add",
                     "position": [
@@ -5581,7 +5581,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/moon/brushes/moon_ruin_01.json",
+                    "spec": "/pa/terrain/bz_luna/brushes/moon_ruin_01.json",
                     "height": 813.5460205078125,
                     "op": "BO_Add",
                     "position": [
@@ -5630,7 +5630,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/generic/brushes/unit_cannon_wreckage.json",
+                    "spec": "/pa/terrain/bz_generic/brushes/unit_cannon_wreckage.json",
                     "height": 810.9390869140625,
                     "op": "BO_Add",
                     "position": [
@@ -5679,7 +5679,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/generic/brushes/unit_cannon_wreckage.json",
+                    "spec": "/pa/terrain/bz_generic/brushes/unit_cannon_wreckage.json",
                     "height": 810.9390869140625,
                     "op": "BO_Add",
                     "position": [
@@ -5728,7 +5728,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/moon/brushes/moon_ruin_01.json",
+                    "spec": "/pa/terrain/bz_luna/brushes/moon_ruin_01.json",
                     "height": 805.705078125,
                     "op": "BO_Add",
                     "position": [
@@ -5777,7 +5777,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/moon/brushes/moon_ruin_01.json",
+                    "spec": "/pa/terrain/bz_luna/brushes/moon_ruin_01.json",
                     "height": 805.705078125,
                     "op": "BO_Add",
                     "position": [
@@ -5826,7 +5826,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/moon/brushes/moon_ruin_01.json",
+                    "spec": "/pa/terrain/bz_luna/brushes/moon_ruin_01.json",
                     "height": 801.5884399414062,
                     "op": "BO_Add",
                     "position": [
@@ -5875,7 +5875,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/moon/brushes/moon_ruin_01.json",
+                    "spec": "/pa/terrain/bz_luna/brushes/moon_ruin_01.json",
                     "height": 801.5884399414062,
                     "op": "BO_Add",
                     "position": [
@@ -5924,7 +5924,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/moon/brushes/moon_ruin_01.json",
+                    "spec": "/pa/terrain/bz_luna/brushes/moon_ruin_01.json",
                     "height": 819.5001220703125,
                     "op": "BO_Add",
                     "position": [
@@ -5973,7 +5973,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/moon/brushes/moon_ruin_01.json",
+                    "spec": "/pa/terrain/bz_luna/brushes/moon_ruin_01.json",
                     "height": 819.5001220703125,
                     "op": "BO_Add",
                     "position": [
@@ -6022,7 +6022,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/moon/brushes/moon_ruin_01.json",
+                    "spec": "/pa/terrain/bz_luna/brushes/moon_ruin_01.json",
                     "height": 818.0386352539062,
                     "op": "BO_Add",
                     "position": [
@@ -6071,7 +6071,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/moon/brushes/moon_ruin_01.json",
+                    "spec": "/pa/terrain/bz_luna/brushes/moon_ruin_01.json",
                     "height": 818.0386352539062,
                     "op": "BO_Add",
                     "position": [
@@ -6120,7 +6120,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/moon/brushes/moon_ruin_01.json",
+                    "spec": "/pa/terrain/bz_luna/brushes/moon_ruin_01.json",
                     "height": 788.4886474609375,
                     "op": "BO_Add",
                     "position": [
@@ -6169,7 +6169,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/moon/brushes/moon_ruin_01.json",
+                    "spec": "/pa/terrain/bz_luna/brushes/moon_ruin_01.json",
                     "height": 788.4886474609375,
                     "op": "BO_Add",
                     "position": [
@@ -6218,7 +6218,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/moon/brushes/moon_ruin_01.json",
+                    "spec": "/pa/terrain/bz_luna/brushes/moon_ruin_01.json",
                     "height": 785.7202758789062,
                     "op": "BO_Add",
                     "position": [
@@ -6267,7 +6267,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/moon/brushes/moon_ruin_01.json",
+                    "spec": "/pa/terrain/bz_luna/brushes/moon_ruin_01.json",
                     "height": 785.7202758789062,
                     "op": "BO_Add",
                     "position": [
@@ -6316,7 +6316,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/generic/brushes/unit_cannon_wreckage.json",
+                    "spec": "/pa/terrain/bz_generic/brushes/unit_cannon_wreckage.json",
                     "height": 788.9488525390625,
                     "op": "BO_Add",
                     "position": [
@@ -6365,7 +6365,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/generic/brushes/unit_cannon_wreckage.json",
+                    "spec": "/pa/terrain/bz_generic/brushes/unit_cannon_wreckage.json",
                     "height": 788.9488525390625,
                     "op": "BO_Add",
                     "position": [
@@ -7198,7 +7198,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/moon/brushes/moon_ruin_01.json",
+                    "spec": "/pa/terrain/bz_luna/brushes/moon_ruin_01.json",
                     "height": 807.2509765625,
                     "op": "BO_Add",
                     "position": [
@@ -7247,7 +7247,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/moon/brushes/moon_ruin_01.json",
+                    "spec": "/pa/terrain/bz_luna/brushes/moon_ruin_01.json",
                     "height": 807.2509765625,
                     "op": "BO_Add",
                     "position": [
@@ -7296,7 +7296,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/moon/brushes/moon_ruin_01.json",
+                    "spec": "/pa/terrain/bz_luna/brushes/moon_ruin_01.json",
                     "height": 810.7881469726562,
                     "op": "BO_Add",
                     "position": [
@@ -7345,7 +7345,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/moon/brushes/moon_ruin_01.json",
+                    "spec": "/pa/terrain/bz_luna/brushes/moon_ruin_01.json",
                     "height": 810.7881469726562,
                     "op": "BO_Add",
                     "position": [
@@ -7394,7 +7394,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/moon/brushes/moon_ruin_01.json",
+                    "spec": "/pa/terrain/bz_luna/brushes/moon_ruin_01.json",
                     "height": 810.9532470703125,
                     "op": "BO_Add",
                     "position": [
@@ -7443,7 +7443,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/moon/brushes/moon_ruin_01.json",
+                    "spec": "/pa/terrain/bz_luna/brushes/moon_ruin_01.json",
                     "height": 810.9532470703125,
                     "op": "BO_Add",
                     "position": [
@@ -7492,7 +7492,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/generic/brushes/unit_cannon_wreckage.json",
+                    "spec": "/pa/terrain/bz_generic/brushes/unit_cannon_wreckage.json",
                     "height": 802.558349609375,
                     "op": "BO_Add",
                     "position": [
@@ -7541,7 +7541,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/generic/brushes/unit_cannon_wreckage.json",
+                    "spec": "/pa/terrain/bz_generic/brushes/unit_cannon_wreckage.json",
                     "height": 802.558349609375,
                     "op": "BO_Add",
                     "position": [
@@ -7590,7 +7590,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/generic/brushes/unit_cannon_wreckage.json",
+                    "spec": "/pa/terrain/bz_generic/brushes/unit_cannon_wreckage.json",
                     "height": 808.3250122070312,
                     "op": "BO_Add",
                     "position": [
@@ -7639,7 +7639,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/generic/brushes/unit_cannon_wreckage.json",
+                    "spec": "/pa/terrain/bz_generic/brushes/unit_cannon_wreckage.json",
                     "height": 808.3250122070312,
                     "op": "BO_Add",
                     "position": [
@@ -7688,7 +7688,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/moon/brushes/moon_ruin_01.json",
+                    "spec": "/pa/terrain/bz_luna/brushes/moon_ruin_01.json",
                     "height": 807.103759765625,
                     "op": "BO_Add",
                     "position": [
@@ -7737,7 +7737,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/moon/brushes/moon_ruin_01.json",
+                    "spec": "/pa/terrain/bz_luna/brushes/moon_ruin_01.json",
                     "height": 807.103759765625,
                     "op": "BO_Add",
                     "position": [
@@ -7786,7 +7786,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/moon/brushes/moon_ruin_01.json",
+                    "spec": "/pa/terrain/bz_luna/brushes/moon_ruin_01.json",
                     "height": 811.7122802734375,
                     "op": "BO_Add",
                     "position": [
@@ -7835,7 +7835,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/moon/brushes/moon_ruin_01.json",
+                    "spec": "/pa/terrain/bz_luna/brushes/moon_ruin_01.json",
                     "height": 811.7122802734375,
                     "op": "BO_Add",
                     "position": [
@@ -7884,7 +7884,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/generic/brushes/unit_cannon_wreckage.json",
+                    "spec": "/pa/terrain/bz_generic/brushes/unit_cannon_wreckage.json",
                     "height": 819.1502075195312,
                     "op": "BO_Add",
                     "position": [
@@ -7933,7 +7933,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/generic/brushes/unit_cannon_wreckage.json",
+                    "spec": "/pa/terrain/bz_generic/brushes/unit_cannon_wreckage.json",
                     "height": 819.1502075195312,
                     "op": "BO_Add",
                     "position": [
@@ -7982,7 +7982,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/moon/brushes/moon_ruin_01.json",
+                    "spec": "/pa/terrain/bz_luna/brushes/moon_ruin_01.json",
                     "height": 806.398193359375,
                     "op": "BO_Add",
                     "position": [
@@ -8031,7 +8031,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/moon/brushes/moon_ruin_01.json",
+                    "spec": "/pa/terrain/bz_luna/brushes/moon_ruin_01.json",
                     "height": 806.398193359375,
                     "op": "BO_Add",
                     "position": [
@@ -8080,7 +8080,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/generic/brushes/unit_cannon_wreckage.json",
+                    "spec": "/pa/terrain/bz_generic/brushes/unit_cannon_wreckage.json",
                     "height": 802.0106201171875,
                     "op": "BO_Add",
                     "position": [
@@ -8129,7 +8129,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/generic/brushes/unit_cannon_wreckage.json",
+                    "spec": "/pa/terrain/bz_generic/brushes/unit_cannon_wreckage.json",
                     "height": 802.0106201171875,
                     "op": "BO_Add",
                     "position": [

@@ -44,7 +44,7 @@
             "planetCSG": [
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_03.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_03.json",
                     "height": 712.1903686523438,
                     "op": "BO_Add",
                     "position": [
@@ -93,7 +93,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_03.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_03.json",
                     "height": 708.077392578125,
                     "op": "BO_Add",
                     "position": [
@@ -142,7 +142,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_02.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_02.json",
                     "height": 716.5928344726562,
                     "op": "BO_Add",
                     "position": [
@@ -191,7 +191,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_03.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_03.json",
                     "height": 716.5928344726562,
                     "op": "BO_Add",
                     "position": [
@@ -240,7 +240,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_06.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_06.json",
                     "height": 711.225830078125,
                     "op": "BO_Add",
                     "position": [
@@ -289,7 +289,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_03.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_03.json",
                     "height": 717.4966430664062,
                     "op": "BO_Add",
                     "position": [
@@ -338,7 +338,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_09.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_09.json",
                     "height": 722.1070556640625,
                     "op": "BO_Add",
                     "position": [
@@ -387,7 +387,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_03.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_03.json",
                     "height": 716.9176025390625,
                     "op": "BO_Add",
                     "position": [
@@ -436,7 +436,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_09.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_09.json",
                     "height": 713.7839965820312,
                     "op": "BO_Add",
                     "position": [
@@ -485,7 +485,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_03.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_03.json",
                     "height": 709.4185791015625,
                     "op": "BO_Add",
                     "position": [
@@ -534,7 +534,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_04.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_04.json",
                     "height": 728.50390625,
                     "op": "BO_Add",
                     "position": [
@@ -583,7 +583,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_03.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_03.json",
                     "height": 707.9132690429688,
                     "op": "BO_Add",
                     "position": [
@@ -632,7 +632,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_03.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_03.json",
                     "height": 711.2863159179688,
                     "op": "BO_Add",
                     "position": [
@@ -681,7 +681,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_04.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_04.json",
                     "height": 726.9052124023438,
                     "op": "BO_Add",
                     "position": [
@@ -730,7 +730,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_03.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_03.json",
                     "height": 718.8568115234375,
                     "op": "BO_Add",
                     "position": [
@@ -779,7 +779,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_09.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_09.json",
                     "height": 709.9779052734375,
                     "op": "BO_Add",
                     "position": [
@@ -828,7 +828,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_04.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_04.json",
                     "height": 713.4885864257812,
                     "op": "BO_Add",
                     "position": [
@@ -877,7 +877,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_03.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_03.json",
                     "height": 708.4666748046875,
                     "op": "BO_Add",
                     "position": [
@@ -926,7 +926,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_01.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_01.json",
                     "height": 717.1864013671875,
                     "op": "BO_Add",
                     "position": [
@@ -975,7 +975,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_08.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_08.json",
                     "height": 714.4939575195312,
                     "op": "BO_Add",
                     "position": [
@@ -1024,7 +1024,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_05.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_05.json",
                     "height": 726.2759399414062,
                     "op": "BO_Add",
                     "position": [
@@ -1073,7 +1073,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_04.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_04.json",
                     "height": 712.009521484375,
                     "op": "BO_Add",
                     "position": [
@@ -1122,7 +1122,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_04.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_04.json",
                     "height": 721.6715698242188,
                     "op": "BO_Add",
                     "position": [
@@ -1171,7 +1171,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_03.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_03.json",
                     "height": 711.483642578125,
                     "op": "BO_Add",
                     "position": [
@@ -1220,7 +1220,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_03.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_03.json",
                     "height": 711.6217651367188,
                     "op": "BO_Add",
                     "position": [
@@ -1269,7 +1269,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_03.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_03.json",
                     "height": 710.0614624023438,
                     "op": "BO_Add",
                     "position": [
@@ -1318,7 +1318,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_04.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_04.json",
                     "height": 716.615966796875,
                     "op": "BO_Add",
                     "position": [
@@ -1367,7 +1367,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_04.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_04.json",
                     "height": 718.7705078125,
                     "op": "BO_Add",
                     "position": [
@@ -1416,7 +1416,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_03.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_03.json",
                     "height": 721.5682983398438,
                     "op": "BO_Add",
                     "position": [
@@ -1465,7 +1465,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_03.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_03.json",
                     "height": 709.7874755859375,
                     "op": "BO_Add",
                     "position": [
@@ -1514,7 +1514,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_04.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_04.json",
                     "height": 713.2057495117188,
                     "op": "BO_Add",
                     "position": [
@@ -1563,7 +1563,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_09.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_09.json",
                     "height": 710.89453125,
                     "op": "BO_Add",
                     "position": [
@@ -1612,7 +1612,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_03.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_03.json",
                     "height": 724.1558227539062,
                     "op": "BO_Add",
                     "position": [
@@ -1661,7 +1661,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_03.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_03.json",
                     "height": 716.288818359375,
                     "op": "BO_Add",
                     "position": [
@@ -1710,7 +1710,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_09.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_09.json",
                     "height": 713.4517822265625,
                     "op": "BO_Add",
                     "position": [
@@ -1759,7 +1759,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_03.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_03.json",
                     "height": 707.0520629882812,
                     "op": "BO_Add",
                     "position": [
@@ -1808,7 +1808,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_09.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_09.json",
                     "height": 717.2056884765625,
                     "op": "BO_Add",
                     "position": [
@@ -1857,7 +1857,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_03.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_03.json",
                     "height": 707.80078125,
                     "op": "BO_Add",
                     "position": [
@@ -1906,7 +1906,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_08.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_08.json",
                     "height": 714.5113525390625,
                     "op": "BO_Add",
                     "position": [
@@ -1955,7 +1955,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_07.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_07.json",
                     "height": 708.0568237304688,
                     "op": "BO_Add",
                     "position": [
@@ -2004,7 +2004,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_09.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_09.json",
                     "height": 717.2804565429688,
                     "op": "BO_Add",
                     "position": [
@@ -2053,7 +2053,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_03.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_03.json",
                     "height": 708.7716064453125,
                     "op": "BO_Add",
                     "position": [
@@ -2102,7 +2102,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_09.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_09.json",
                     "height": 730.690673828125,
                     "op": "BO_Add",
                     "position": [
@@ -2151,7 +2151,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_07.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_07.json",
                     "height": 724.2587280273438,
                     "op": "BO_Add",
                     "position": [
@@ -2200,7 +2200,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_06.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_06.json",
                     "height": 712.0701293945312,
                     "op": "BO_Add",
                     "position": [
@@ -2249,7 +2249,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_06.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_06.json",
                     "height": 710.4593505859375,
                     "op": "BO_Add",
                     "position": [
@@ -2298,7 +2298,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_volcano_05.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_volcano_05.json",
                     "height": 706.6283569335938,
                     "op": "BO_Add",
                     "position": [
@@ -2347,7 +2347,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_volcano_06.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_volcano_06.json",
                     "height": 713.7839965820312,
                     "op": "BO_Add",
                     "position": [
@@ -2396,7 +2396,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_volcano_06.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_volcano_06.json",
                     "height": 715.6902465820312,
                     "op": "BO_Add",
                     "position": [
@@ -2445,7 +2445,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_volcano_06.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_volcano_06.json",
                     "height": 707.7069702148438,
                     "op": "BO_Add",
                     "position": [
@@ -2494,7 +2494,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_volcano_06.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_volcano_06.json",
                     "height": 715.4968872070312,
                     "op": "BO_Add",
                     "position": [
@@ -2543,7 +2543,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_03.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_03.json",
                     "height": 708.077392578125,
                     "op": "BO_Add",
                     "position": [
@@ -2592,7 +2592,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_02.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_02.json",
                     "height": 716.5928344726562,
                     "op": "BO_Add",
                     "position": [
@@ -2641,7 +2641,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_03.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_03.json",
                     "height": 716.5928344726562,
                     "op": "BO_Add",
                     "position": [
@@ -2690,7 +2690,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_06.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_06.json",
                     "height": 711.225830078125,
                     "op": "BO_Add",
                     "position": [
@@ -2739,7 +2739,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_03.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_03.json",
                     "height": 717.4966430664062,
                     "op": "BO_Add",
                     "position": [
@@ -2788,7 +2788,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_09.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_09.json",
                     "height": 722.1070556640625,
                     "op": "BO_Add",
                     "position": [
@@ -2837,7 +2837,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_03.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_03.json",
                     "height": 716.9176025390625,
                     "op": "BO_Add",
                     "position": [
@@ -2886,7 +2886,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_09.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_09.json",
                     "height": 713.7839965820312,
                     "op": "BO_Add",
                     "position": [
@@ -2935,7 +2935,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_03.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_03.json",
                     "height": 709.4185791015625,
                     "op": "BO_Add",
                     "position": [
@@ -2984,7 +2984,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_04.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_04.json",
                     "height": 728.50390625,
                     "op": "BO_Add",
                     "position": [
@@ -3033,7 +3033,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_03.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_03.json",
                     "height": 707.9132690429688,
                     "op": "BO_Add",
                     "position": [
@@ -3082,7 +3082,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_03.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_03.json",
                     "height": 711.2863159179688,
                     "op": "BO_Add",
                     "position": [
@@ -3131,7 +3131,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_04.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_04.json",
                     "height": 726.9052124023438,
                     "op": "BO_Add",
                     "position": [
@@ -3180,7 +3180,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_03.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_03.json",
                     "height": 718.8568115234375,
                     "op": "BO_Add",
                     "position": [
@@ -3229,7 +3229,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_09.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_09.json",
                     "height": 709.9779052734375,
                     "op": "BO_Add",
                     "position": [
@@ -3278,7 +3278,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_04.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_04.json",
                     "height": 713.4885864257812,
                     "op": "BO_Add",
                     "position": [
@@ -3327,7 +3327,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_03.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_03.json",
                     "height": 708.4666748046875,
                     "op": "BO_Add",
                     "position": [
@@ -3376,7 +3376,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_01.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_01.json",
                     "height": 717.1864013671875,
                     "op": "BO_Add",
                     "position": [
@@ -3425,7 +3425,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_08.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_08.json",
                     "height": 714.4939575195312,
                     "op": "BO_Add",
                     "position": [
@@ -3474,7 +3474,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_05.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_05.json",
                     "height": 726.2759399414062,
                     "op": "BO_Add",
                     "position": [
@@ -3523,7 +3523,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_04.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_04.json",
                     "height": 712.009521484375,
                     "op": "BO_Add",
                     "position": [
@@ -3572,7 +3572,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_04.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_04.json",
                     "height": 721.6715698242188,
                     "op": "BO_Add",
                     "position": [
@@ -3621,7 +3621,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_03.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_03.json",
                     "height": 711.483642578125,
                     "op": "BO_Add",
                     "position": [
@@ -3670,7 +3670,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_03.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_03.json",
                     "height": 711.6217651367188,
                     "op": "BO_Add",
                     "position": [
@@ -3719,7 +3719,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_03.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_03.json",
                     "height": 710.0614624023438,
                     "op": "BO_Add",
                     "position": [
@@ -3768,7 +3768,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_04.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_04.json",
                     "height": 716.615966796875,
                     "op": "BO_Add",
                     "position": [
@@ -3817,7 +3817,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_03.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_03.json",
                     "height": 721.5682983398438,
                     "op": "BO_Add",
                     "position": [
@@ -3866,7 +3866,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_03.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_03.json",
                     "height": 709.7874755859375,
                     "op": "BO_Add",
                     "position": [
@@ -3915,7 +3915,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_04.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_04.json",
                     "height": 713.2057495117188,
                     "op": "BO_Add",
                     "position": [
@@ -3964,7 +3964,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_09.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_09.json",
                     "height": 710.89453125,
                     "op": "BO_Add",
                     "position": [
@@ -4013,7 +4013,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_03.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_03.json",
                     "height": 724.1558227539062,
                     "op": "BO_Add",
                     "position": [
@@ -4062,7 +4062,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_09.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_09.json",
                     "height": 713.4517822265625,
                     "op": "BO_Add",
                     "position": [
@@ -4111,7 +4111,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_03.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_03.json",
                     "height": 707.0520629882812,
                     "op": "BO_Add",
                     "position": [
@@ -4160,7 +4160,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_09.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_09.json",
                     "height": 717.2056884765625,
                     "op": "BO_Add",
                     "position": [
@@ -4209,7 +4209,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_03.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_03.json",
                     "height": 707.80078125,
                     "op": "BO_Add",
                     "position": [
@@ -4258,7 +4258,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_08.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_08.json",
                     "height": 714.5113525390625,
                     "op": "BO_Add",
                     "position": [
@@ -4307,7 +4307,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_07.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_07.json",
                     "height": 708.0568237304688,
                     "op": "BO_Add",
                     "position": [
@@ -4356,7 +4356,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_09.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_09.json",
                     "height": 717.2804565429688,
                     "op": "BO_Add",
                     "position": [
@@ -4405,7 +4405,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_09.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_09.json",
                     "height": 730.690673828125,
                     "op": "BO_Add",
                     "position": [
@@ -4454,7 +4454,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_07.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_07.json",
                     "height": 724.2587280273438,
                     "op": "BO_Add",
                     "position": [
@@ -4503,7 +4503,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_06.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_06.json",
                     "height": 712.0701293945312,
                     "op": "BO_Add",
                     "position": [
@@ -4552,7 +4552,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_06.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_06.json",
                     "height": 710.4593505859375,
                     "op": "BO_Add",
                     "position": [
@@ -4601,7 +4601,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_volcano_06.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_volcano_06.json",
                     "height": 713.7839965820312,
                     "op": "BO_Add",
                     "position": [
@@ -4650,7 +4650,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_volcano_06.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_volcano_06.json",
                     "height": 715.6902465820312,
                     "op": "BO_Add",
                     "position": [
@@ -4699,7 +4699,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_volcano_06.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_volcano_06.json",
                     "height": 715.4968872070312,
                     "op": "BO_Add",
                     "position": [
@@ -4748,7 +4748,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_06.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_06.json",
                     "height": 737.43701171875,
                     "op": "BO_Add",
                     "position": [
@@ -4797,7 +4797,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_06.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_06.json",
                     "height": 737.43701171875,
                     "op": "BO_Add",
                     "position": [
@@ -4846,7 +4846,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_09.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_09.json",
                     "height": 708.343994140625,
                     "op": "BO_Add",
                     "position": [
@@ -4895,7 +4895,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_09.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_09.json",
                     "height": 708.343994140625,
                     "op": "BO_Add",
                     "position": [
@@ -4944,7 +4944,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_09.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_09.json",
                     "height": 713.1735229492188,
                     "op": "BO_Add",
                     "position": [
@@ -4993,7 +4993,7 @@
                 },
                 {
                     "proj": "BP_Bend",
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_09.json",
+                    "spec": "/pa/terrain/bz_lava/brushes/lava_plateau_09.json",
                     "height": 713.1735229492188,
                     "op": "BO_Add",
                     "position": [
