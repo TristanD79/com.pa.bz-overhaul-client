@@ -1,7 +1,7 @@
 {
     "context": "client",
     "identifier": "com.pa.bz-overhaul-client",
-    "display_name": "Battlezone: RTS Tactics Client (WIP)",
+    "display_name": "Battlezone: RTS Tactics Client",
     "description": "A full conversion mod that brings both factions from Battlezone to PA.",
     "author": "Tristan",
     "version": "0.9",
